@@ -1,0 +1,2137 @@
+Original Paper
+Design Consider ations for an Exergame-Based Training
+Intervention for Older Adults With Mild Neurocognitiv e Disorder :
+Qualitativ e Study Including Focus Groups With Exper ts and Health
+Care Professionals and Individual Semistr uctured In-depth Patient
+Interviews
+Patrick Manser1, MSc; Manuela Adcock-Omlin1, DSc; Eling D de Bruin1,2,3, PhD
+1Motor Control and Learning Group – Institute of Human Movement Sciences and Sport, Department of Health Sciences and Technology , ETH Zurich,
+Zurich, Switzerland
+2Division of Physiotherap y, Department of Neurobiology , Care Sciences and Society , Karolinska Institutet, Stockholm, Sweden
+3Department of Health, OST – Eastern Swiss University of Applied Sciences, St.Gallen, Switzerland
+Corr esponding Author:
+Patrick Manser , MSc
+Motor Control and Learning Group – Institute of Human Movement Sciences and Sport, Department of Health Sciences and
+Technology , ETH Zurich
+Leopold-Ruzicka-W eg 4, CH-8093 Zurich, Switzerland
+Zurich, CH-8093
+Switzerland
+Phone: 41 79 519 96 46
+Email: patrick.manser@hest.ethz.ch
+Abstr act
+Backgr ound: Exergames have attracted growing interest in the prevention and treatment of neurocogniti ve disorders. The most
+effective exergame and training components (ie, exercise and training variables such as frequenc y, intensity , duration, or volume
+of training and type and content of specif ic exergame scenarios) however remain to be established for older adults with mild
+neurocogniti ve disorders (mNCDs). Regarding the design and development of novel exergame-based training concepts, it seems
+of crucial importance to explicitly include the intended users’ perspecti ve by adopting an interacti ve and participatory design that
+includes end users throughout different iterati ve cycles of development.
+Objecti ve: This study aimed to determine the capabilities, treatment preferences, and motivators for the training of older adults
+with mNCD and the perspecti ves of individuals on training goals and settings and requirements for exergame and training
+components.
+Methods: A qualitati ve study including expert focus groups and individual semistructured in-depth patient intervie ws was
+conducted. Data were transcribed to a written format to perform qualitati ve content analysis using QCAmap softw are.
+Results: In total, 10 experts and health care professionals (80% females) and 8 older adults with mNCD (38% females; mean
+age 82.4, SD 6.2 years) were recruited until data saturation was observ ed.
+Conclusions: The psychosocial consequences of patients’ self-percei ved cogniti ve deterioration might be more burdensome
+than the cogniti ve changes themselv es. Older adults with mNCD prefer integrative forms of training (such as exergaming) and
+are primarily motivated by enjoyment or fun in exercising and the effectiveness of the training. Putting the synthesized perspecti ves
+of training goals, settings, and requirements for exergames and training components into conte xt, our considerations point to
+opportunities for impro vement in research and rehabilitation, either by adapting existing exergames to patients with mNCDs or
+by developing novel exergames and exergame-based training concepts specif ically tailored to meet patient requirements and
+needs.
+(JMIR Serious Games 2023;11:e37616) doi: 10.2196/37616
+KEYW ORDS
+cognition; exercise; exergame; design; development; neurosciences; technology; training
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 1 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXIntroduction
+Backgr ound
+The normal aging process is associated with a decline in physical
+and cogniti ve abilities [1,2]. When the cogniti ve decline exceeds
+the normal age-related cogniti ve decline but is not severe enough
+to interfere with independence in activities of daily living, it
+can be classif ied as “mild cogniti ve impairment” (MCI),
+representing an intermediate stage of cogniti ve impairment
+between the normal aging process and dementia [3-9]. The
+condition MCI has evolved over the last decades [5] and has
+recently been incorporated in the latest Diagnostic and Statistical
+Manual of Mental Disorders 5th Edition (DSM-5) and the
+International Classif ication of Diseases 11th Revision, referred
+to as mild neurocogniti ve disorder (mNCD) [7,9-11]. The
+prevalence of mNCD increases with age, while the incidence
+of mNCD and the progression to dementia is expected to rise,
+largely because of the globally growing life expectancies and
+sedentary lifestyles [3,5,12-15]. As currently no effective
+pharmacological interv entions for patients with mNCD exist
+[16], alternati ve options to prevent and treat neurocogniti ve
+disorders are needed. Targeting modif iable risk factors in midlife
+may hold promise for mitig ating or even preventing
+neurocogniti ve disorders in later life [17-21]. The modif iable
+risk factors for mNCD include the presence of vascular risk
+factors (ie, metabolic syndrome, hypertension, hyperlipidemia,
+coronary heart disease, diabetes mellitus, or strok e) [22-24] or
+a physically or cogniti vely sedentary lifestyle [25,26].
+Consequently , changes in lifestyle that increase physical and
+cogniti ve activity and reduce vascular risk factors are protecti ve
+against cogniti ve decline [27-35].
+Exergames have gained growing interest to prevent and treat
+neurocogniti ve disorders [36-38]. “Exergaming is defined as
+technology-dri ven physical activities, such as video game play,
+that requires participants to be physically active or exercise in
+order to play the game” [39]. One of the major advantages of
+exergame-based training is that it is widely accepted by
+individuals with neurocogniti ve disorders. In addition, it
+increases training adherence and engagement by facilitating
+training motivation and satisf action [40], which in turn may
+have a positi ve effect on the effectiveness of impro ving
+cogniti ve functioning [41]. Furthermore, exergames can be used
+as a form of simultaneous cogniti ve-motor training with
+incorporated cogniti ve task demands [42]. Meta-analytic
+evidence suggests that simultaneous motor -cogniti ve training
+is the most effective type of training for impro ving cognition
+in health y older adults (HOA) [43,44] and older adults with
+mNCD [44-46]. For exergames specif ically , a recent systematic
+review synthesized evidence from low risk of bias studies
+showing that there were consistent positi ve effects favoring
+exergaming in people with mNCD and dementia [40].
+Nonetheless, it is currently difficult to draw reliable conclusions
+about the effectiveness of exergaming in preventing and treating
+neurocogniti ve disorders because of the substantial variations
+in the exergame-based training used. Therefore, further
+investig ations are needed for the establishment of effective
+exergame and training components (ie, exercise and training
+variables such as the frequenc y, intensity , duration, or volumeof training and the type and content of specif ic exergame
+scenarios) for cogniti ve functioning that can be applied with
+confidence in evidence-based exergame interv entions [36].
+Regarding the design and development of novel exergames, it
+seems crucial to explicitly include the intended users’
+perspecti ves [47]. Taking the characteristics, needs, and
+experiences into account should ensure adequate use and
+therefore the effectiveness of the solution. Baquero et al [48]
+pointed out that an end user–centered methodological design is
+most often adopted in the development of computer -based
+training programs for cogniti ve rehabilitation of older adults
+with neurocogniti ve disorders (NCDs). In an ideal case, this
+process fulfills the international standards for the development
+of programs including (1) understanding and specifying the
+conte xt of use (type, characteristics and tasks of users, and
+physical or social environment), (2) specifying the user
+requirements, (3) producing design solutions, and (4) evaluating
+the design [48,49]. So far, only half of the studies reporting
+computer -based interv entions took the standard “specif ication
+of user requirements” into account [48]. This has led to the
+recommendation that future studies in this field should use an
+interacti ve and participatory design that explicitly includes end
+users throughout different iterati ve cycles of development [48].
+In short, it is important to systematically and thoroughly
+investig ate the specif ic user requirements and preferences for
+an exergame-based training concept before it is designed and
+developed.
+Objecti ves
+This study aimed to determine the capabilities, treatment
+preferences, and motivators for the training of older adults with
+mNCD and the perspecti ves of individuals on training goals
+and settings and requirements for exergame and training
+components.
+Methods
+Overview
+This study is part of the national project “Brain-IT ,” which
+began in August 2020 in Switzerland. The aims of the overall
+project are (1) to determine the most suitable components for
+exergame-based training in older adults with mNCD; (2) to
+explore novel strate gies for a real-time adapti ve exergame
+system to individually tailor exergame demands according to
+users’ physical or cogniti ve capabilities; (3) to incorporate the
+acquired knowledge into an exergame-based training concept
+with the aim of halting or reducing cogniti ve decline and
+impro ving quality of life; and (4) to evaluate the effectiveness
+of the resulting training interv ention in older adults with mNCD.
+The project is guided by a theoretical frame work that provides
+specif ic guidance in the design, development, and evaluation
+of exergames for older adults, the “Multidisciplinary Iterati ve
+Design of Exergames (MIDE): A Frame work for Supporting
+the Design, Development, and Evaluation of Exergames for
+Health” [50], which provides specif ic guidance in the design,
+development, and evaluation of exergames for older adults. This
+study is part of the first phase of the project, with the aim to
+specify a “set of design requirements that includes design
+considerations, accessibility recommendations, user modeling
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 2 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXelements, and technological reflections to be followed in the
+design and development phase ”[47,50], and it was combined
+with an extensi ve literature review and reflections on technology
+scoping and sustainability strate gy (see steps 4 and 5 of phase
+1 of our recently published methodological paper [47]). For the
+project, the exergame device “Senso (Flex)” (Dividat AG) was
+preselected on the basis of (1) our previous research, (2) because
+this device has already been shown to be feasible and
+well-accepted in geriatric patients [51] and patients with major
+neurocogniti ve disorder [52], and (3) because it is already widely
+used (and therefore available more widely and for longer term
+by end users and health care institutions) for motor -cogniti ve
+training within geriatric populations, physiotherapies, or
+rehabilitation clinics in Switzerland. On this basis, this
+qualitati ve study was designed to achie ve the defined objecti ves
+in general; in addition, it also aimed to collect evidence about
+the previous experiences of experts or health care professionals
+with different exergame systems [including the “Senso (Flex)”].
+In this way, the project team wanted to collect evidence to make
+an informed decision whether the specif ic exergame device was
+suitable for the project, what possible modif ications might be
+needed to optimize the exergame experience for patients with
+mNCD, and whether and what alternati ve exergame devices are
+suggested by the experts (see subsections of “(T2) Treatment
+Experience and Preferences—Pre vious Experiences with
+Exergames (‘Senso’ specif ically)” and “(T5) Exergame and
+Training Components—Ex ergame System and Content” in the
+focus group discussions). Other than parts of these 2 sections
+that include device-specif ic findings, none of the remaining
+sections in this manuscript are device specif ic.
+Study Design
+A qualitati ve study was conducted between November 2020
+and January 2021, including expert focus groups and patient
+intervie ws; both were organized as semistructured, in-depth
+intervie ws. Semistructured, in-depth intervie ws are the most
+widely used intervie wing format for qualitati ve research and
+are generally organized around a set of predetermined
+open-ended questions, with additional questions and discussion
+points emer ging from the dialogue [53]. The study was planned
+and reported in accordance with the “consolidated criteria for
+reporting qualitati ve research (COREQ)” [54].
+The MIDE Frame work [50] guided our approach. On the basis
+of this frame work, we integrated multiple stakeholders into the
+design and development process including exergaming
+researchers, clinical experts with different backgrounds, a
+compan y representing the exergaming industry , and the end
+users.
+Ethics Approval
+All the study procedures were performed in accordance with
+the Declaration of Helsinki. The study protocol (not registered)was appro ved by the ETH Zürich Ethics Commission (EK
+2020-N-154). All interested individuals were fully informed of
+the study procedures. The expected benef its and risks of the
+study were explained by the study investig ator, who was also
+able to answer open questions and clarify individuals’
+uncertainties. It was further verified that withdra wal was
+permitted at any time during the study without providing any
+reason. After sufficient time, suitable individuals willing to
+participate in the study provided written informed consent and
+were included in the study . No compensation was provided to
+the participants.
+Participants
+Experts
+Recruitment aimed at including experts and health care
+professionals experienced with exergame training of older adults
+with mNCD, preferably (but not necessarily) with the exergame
+training system “Senso (Flex)” or similar . For this purpose,
+Dividat AG was asked to provide a contact list of 10 to 15
+external experts and health care professionals with a variety in
+age, sex, educational level, and experience in therap y of older
+adults with mNCD, who are not emplo yed by Dividat AG or
+had recei ved any funds from Dividat AG for their work. All
+recommended experts and health care professionals were
+contacted via email between November and December 2020.
+By applying broad inclusion criteria, a rich spectrum of experts
+and health care professionals were considered in the study ,
+which in turn will foster the usability of the resulting program
+in clinical practice. The specif ic eligibility criteria comprised
+the following aspects: (1) experts or health care professionals
+(eg, physical therapists, movement therapists,
+neuropsychologists, or researchers experienced with exergames)
+experienced with exergame training or with older adults with
+mNCD; (2) German or English speaking; and (3) age ≥18 years.
+There were no specif ic exclusion criteria.
+Older Adults With mNCD
+Older adults with mNCD were consecuti vely recruited between
+November 2020 and January 2021 in collaboration with health
+care institutions and (memory) clinics in the larger area of
+Zürich. Leaflets and study information sheets containing
+researchers’ contact details were handed out to suitable patients
+by their therapists. Suitable patients were identif ied from
+medical records and patient registries of memory clinics or from
+diagnostics that had just been performed. Interested patients
+were contacted by the research team by telephone or email to
+clarify or obtain further information about the study procedures
+and to register interest in participating in the study .
+Subsequently , all patients were fully informed about the study
+procedures in a face-to-f ace meeting at the patient’ s homes. In
+addition, patients of interest were screened for eligibility . The
+eligibility criteria are presented in Textbox 1.
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 3 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXTextbox 1. Description of all eligibility criteria.
+• Inclusion criteria
+• Participants fulfilling all the following inclusion criteria were eligible:
+• (1= mild neurocogniti ve disorder [mNCD]) clinical diagnosis of “mNCD” according to International Classif ication of Diseases 11th
+Revision [7] or Diagnostic and Statistical Manual of Mental Disorders 5th Edition [9]) OR (2=sMCI). Patients “screened for MCI”
+according to the following criteria: (1) informant (ie, health care professional)–based suspicion of mild cogniti ve impairment confirmed
+by (2) an objecti ve screening of mild cogniti ve impairment based on the German version of the using the Quick Mild Cogniti ve
+Impairment Screen [55] with (b1) a recommended cutof f score for cogniti ve impairment (mild cogniti ve impairment or dementia) of
+<62/100 [56], while (b2) not falling below the cutof f score for dementia (ie, <45/100 [56])
+• German speaking
+• Exclusion criteria
+• The presence of any of the following criteria led to exclusion:
+• Presence of additional, clinically relevant (ie, acute or symptomatic) neurological disorders (ie, epilepsy , strok e, multiple sclerosis,
+Parkinson disease, brain tumors, or traumatic disorders of the nervous system)
+• Presence of any other unstable or uncontrolled diseases (eg, uncontrolled high blood pressure, progressing or terminal cancer , etc)
+Procedur es and Data Collection
+Expert Focus Groups
+The expert focus groups were moderated by the first author
+(PM) into groups of up to 5 experts. The moderator was a male
+doctoral student with a master’ s degree in Health Sciences and
+Technology (ETH Zürich, Switzerland), who was trained for
+qualitati ve research. Owing to the COVID-19 pandemic, all
+focus group sessions were held as web-based meetings in the
+form of Zoom sessions (Zoom Video Communications), took
+approximately 60 to 90 minutes to complete, and were audio
+recorded. Each session started with a short presentation of the
+background and overall aim of the project. Subsequently , the
+aim of this study was presented before starting the focus group
+discussions. The focus group discussions were organized as
+semistructured, in-depth intervie ws with open-ended questions
+to enable open conversations [53]. The exchange was conducted
+following a focus group guide (Multimedia Appendix 1)
+structured along 5 topics, each consisting of multiple key
+questions. First, the capabilities of older adults with mNCD
+were discussed, in continuation with insights into training goals
+and outcomes in the perspecti ve of patients as well as therapists.
+Thereafter , the exchange focused on treatment experiences and
+preferences as well as motivators for training of older adults
+with mNCD. Finally , the requirements and optimal components
+of the exergame-based training were critically discussed. To
+focus the moderator’ s attention on participants’ verbal and
+nonverbal communication and because handwritten notes during
+intervie ws are considered relati vely unreliable, no notes were
+taken during the focus group sessions [57].
+Patient Interviews With Older Adults With mNCD
+The patient intervie ws were conducted individually with each
+patient by the first author (PM) and either took place at ETH
+Zürich (Institute of Human Movement Sciences and Sport,
+Leopold-Ruzicka-W eg 4, 8093 Zürich) or at the patients’ homes,
+depending on the patients’ preferences. The intervie w sessions
+were held face-to-f ace in a quiet room with no one presentbesides the intervie wer, the patient, and, if requested, a care
+professional or partner as personal support for the patient. We
+did not set a time limit for the intervie ws but gave all
+participants enough time to share their views on the topics
+discussed. On average, each session took approximately 20 to
+30 minutes to complete and was audio recorded. Before starting
+the intervie w, the background and overall aim of the project as
+well as the aim of this study were explained to each patient.
+The intervie ws were organized as semistructured, in-depth
+intervie ws along an intervie w guide (Multimedia Appendix 1)
+[53]. The intervie w guide was not pilot-tested, as it was
+developed by the first author (PM) in collaboration with the
+second author (MA), an experienced clinical neuropsychologist.
+After questioning the patients’ capabilities as well as their
+previous treatment or training experience and preferences, the
+intervie w continued with questions about motivators for training
+and the preferred components of exergame-based training.
+Open-ended questions were asked to enable an open
+conversation [53]. To focus the moderator’ s attention on
+patients’ verbal and nonverbal communication, no notes were
+taken during the intervie ws [57]. Finally , the intervie wer was
+prepared to tailor the intervie w questions and communication
+style to the patients’ capabilities, and in case of higher levels
+of impairment, to adopt strate gies suggested to optimize
+communication with patients with NCDs [58,59].
+Sample Size
+The intended sample size was set at approximately 5 to 10
+experts for the focus group sessions and 5 to 10 older adults
+with mNCD for the patient intervie ws; however, study
+participants were consecuti vely included until data saturation
+was reached [60].
+Data Analysis
+First, all audio files were transcribed in written format in
+Microsoft Word in pseudon ymized form. The transcripts were
+not returned to the participants for corrections or comments. To
+explore the perspecti ves of patients and experts or health care
+professionals, a qualitati ve content analysis was performed
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 4 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXaccording to Mayring et al [61,62] using QCAmap softw are
+[62-64]. The first step in the analysis involved repeated readings
+of the transcripts and listening to the original audio files to gain
+a better understanding of the conversation content. Second, the
+type of analysis (ie, category assignment procedure) was
+predef ined for each of the research questions (ie, key questions
+of the intervie w guide). In case of an inducti ve category
+assignment procedure, a selection criterion and level of
+abstraction were defined for each of the research questions. For
+deducti ve category assignments, each research question was
+operationalized into categories, and a corresponding coding
+guideline (ie, category label, category definition, anchor
+example, and coding rules) was formulated. On the basis of this,
+all transcripts were coded line-by-line (ie, including a revision
+of the category system after a pilot loop). Subsequently , each
+resulting list of categories was grouped into main categories,
+and inter- and intra-agreement checks were performed. Finally ,
+the results of each key question were analyzed along the
+structure (including predetermined themes and topics) of the
+intervie w guide that was created according to the guidelines of
+the MIDE Frame work [50]. Thus, the results were structured
+and analyzed in 2 main themes and 5 topics. First, the section
+“user modeling” that included 3 topics: (T1) capabilities of older
+adults with mNCD, (T2) treatment experiences and preferences,
+and (T3) motivators for training. Second, “therapeutic needs, ”
+including (T4) training goals and outcomes and (T5) exergame
+and training components. Within the topic “(T1) capabilities of
+older adults with mNCD, ” the described cogniti ve capabilities
+and difficulties were classif ied into the key neurocogniti ve
+domains (as defined by Sachde v et al [10]) in line with DSM-V
+[9] on agreement between the first (PM) and second author
+(MA; an experienced neuropsychologist). Within the topic “(T3)
+motivators for training, ” the motivators for training were coded
+and analyzed against the background of the “Self-determination
+Theory” [65]. The Self-determination Theory [65] accounts for
+the quality of different levels of motivational regulation in
+physical activity settings. It is considered useful to gain a better
+understanding and promote training motivation, enjoyment, and
+adherence and has demonstrated considerable efficacy in
+explaining exercise motivation and behavior [66-70]. Data fromthe qualitati ve content analysis were combined with quantitati ve
+data (ie, frequenc y of various statements [f] and in the case of
+patient intervie ws, the proportion of patients making a statement
+[in %]) [60]. The coding and data analysis process was
+cross-check ed to enhance the credibility of the analytic
+procedure [60].
+Results
+Participants
+In total, 11 external experts and health care professionals were
+contacted by the first author (PM). All experts responded and
+were interested in participating. Two experts could not
+participate in the focus group sessions because of time
+constraints. According to the “inte grative” contrib ution of the
+MIDE Frame work, “perspecti ves of various stakeholders (e.g.,
+industry partners, data analysts, health care professionals) are
+considered in the process of designing and developing
+exergames ”[50]. In accordance with this, the founder of Dividat
+AG was involved in one of the focus group discussions as an
+industry representati ve. In total, 10 experts and health care
+professionals (80% females) participated in 1 of the 5 focus
+group sessions until data saturation was observ ed and further
+recruitment was terminated. The focus group sessions were
+conducted in groups of between 1 (k=3) and 3 (k=1) experts
+(median 1.5) and the moderator (PM). The professional
+backgrounds of the experts and health care professionals
+included exergaming researchers (n=4), physical and
+occupational therapists (n=2), neuropsychologists (n=2), project
+manager therap y (n=1), and founder of an exergaming compan y
+(n=1).
+For the patient intervie ws, 8 patients (38% females; mean age
+82.4, SD 6.2 years; mean level of cogniti ve functioning,
+measured by the German Version of the Quick Mild Cogniti ve
+Impairment Screen [55], 56.0, SD 8.2) were invited and
+intervie wed until data saturation was observ ed and further
+recruitment was terminated. None of the patients refused to
+participate or dropped out of the study after providing their
+written informed consent. The demographic characteristics of
+the patients are summarized in Table 1.
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 5 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXTable 1. Demographic characteristics of the study population.
+Total sample (n=8)
+82.4 (6.2) Age (years), mean (SD)
+23.1 (2.4)BMI (kg/m2), mean (SD)
+298.8 (227.0) Physical activity (min/week), mean (SD)
+56.0 (8.2)Qmcia[55] total score (points), mean (SD)
+Clinical subtype, n (%)
+6 (75)mNCDbdue to Alzheimer disease
+0 (0)Mild frontotemporal NCDc
+0 (0) mNCD with Lewy bodies
+2 (25) Mild vascular NCD
+aQmci: Quick Mild Cogniti ve Impairment Screen.
+bmNCD: mild neurocogniti ve disorder .
+cNCD: neurocogniti ve disorder .
+Qualitati ve Content Analysis Results
+T1: Capabilities
+The experts described a large variety of impairments observ ed
+in older adults with mNCD. The most frequently described
+impairments referred to cogniti ve functioning (f=43), including
+impairments in the following neurocogniti ve domains: executi ve
+function (f=23), comple x attention (f=11), learning and memory
+(f=7), visuospatial skills (f=2), language (f=1), and social
+cognition (f=1). These cogniti ve changes were also described
+as affecting psychosocial factors (f=22), mainly by causing
+psychological distress (f=9) and feelings of insecurity (f=2),
+leading patients to try to hide their impairments from others
+(f=2). In addition, an increased fall risk (f=9) and reduced
+physical resilience (f=7) were observ ed. Although experiencing
+difficulties in activities of daily living (ADLs; f=1), patients
+were described as maintaining their functional independence in
+ADL (f=2).
+In line with the experts’ viewpoint, cogniti ve deterioration (f=22,
+n=7, 88%) was frequently described by the patients, mainly
+affecting learning and memory (f=11, n=4, 50% of patients),
+executi ve function (f=6, n=4, 50% of patients), and comple x
+attention (f=5, n=2, 25% of patients), whereas only minor
+restrictions in physical capabilities and mobility were mentioned
+(ie, impaired balance, [f=2, n=2, 25% of patients], reduced gait
+speed [f=1, n=1, 13% of patients], increased fall risk [f=9, n=5,
+63% of patients], fatigue [f=6, n=3, 38% of patients], and joint
+pain [f=2, n=2, 25% of patients]). ADLs remained preserv ed in
+all patients, but the need for coping strate gies was mentioned
+by 4 patients (50%) to be able to preserv e ADLs. From the
+patients’ perspecti ve, the consequences of their self-percei ved
+subjecti ve cogniti ve decline (f=8, n=6, 75% of patients) with
+regard to psychosocial factors were most frequently reported
+(f=36, n=8, 100% of patients), mainly involving psychological
+distress (f=13, n=2, 25%), feelings of insecurity (f=6, n=3, 38%
+of patients), depressi ve symptoms (f=2, n=2, 25% of patients),
+or fear of repeated falls (f=3, n=1, 13% of patients):A really tedious thing is that you often can’t keep up.
+For example , in discussions or conversations. [...]
+You often think about what the other(s) have just said
+and in the meantime he or she has already continued.
+That’ s why you often just don’t say anything . Of
+course, most people like it when you don’t say
+anything (*laughs*). So, these people don’t get upset
+about it. But I am.[P-01]
+I used to go running a lot. I don’t do that anymor e.
+But swimming is still fine. In the worst case, I become
+a drowned corpse , but at least I can’t fall while
+swimming .[P-02]
+I can actually do everything; I just have to be careful
+because of my dizziness and weakness so that I don’t
+fall. I also have problems with short-term memory . I
+have to try to remember everything somehow , but I
+still forget a lot of things. [P-04]
+T2: Treatment Experience and Preferences
+Previous Treatment and Training Experiences
+To counteract cogniti ve decline and preserv e physical
+capabilities, mobility , and ADLs, patients have already been
+on medical training therap y (MTT ; f=3, n=3, 38% of patients),
+have already been on physical therap y (PT; f=2, n=2, 25% of
+patients), have performed a specif ic group-based (ie, f=1, n=1,
+13% of patients) or individual (f=1, n=1, 13% of patients)
+cogniti ve training or meditation (f=1, n=1, 13% of patients), or
+have reported to have no experience in any specif ic therap y or
+training (f=1, n=1, 13% of patients).
+From the patient’ s viewpoint, MTT and PT were percei ved as
+useful (f=3, n=3, 38% of patients), but patients reported that
+they would have to do it more consistently to profit from it (f=2,
+n=2, 25% of patients). Computerized cogniti ve training (CCT)
+was also percei ved as useful (f=1, n=1, 13% of patients) and
+reported to be challenging, fun, and enjoyable (f=2, n=2, 25%
+of patients). Nonetheless, patients reported being insecure about
+the effectiveness of CCT (f=2, n=2, 25% of patients):
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 6 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderX[In response to PT] [...]my gait has improved. I now
+take slow and long steps and no longer fall over.
+Howe ver, I would definitely have to do it more
+consistently .[P-02]
+The problem is primarily that my physical therapist
+only has time for me every 14 days because she is so
+book ed up. Of course, it would be nice if I could go
+more often. But it is what it is, and I have to live with
+it.[P-08]
+[Patient explains game tasks of CCT] It’s not even
+that simple . This is all fun and useful. But I don’t
+know if it will do any good. [and] I have no intention
+of stopping . Howe ver, at some point I have to ask
+myself: “Does is go any further? Or is it just going
+to stay at what I’m currently able to mana ge?”[P-01]
+According to the experience of experts and health care
+professionals, only cogniti ve forms of training or physical
+exercises were often experienced as boring over time by older
+adults with mNCD (f=2) and required guidance by a therapist
+(f=2). More integrative forms of training, including gamified
+tasks close to everyday life, multimodal animation, and acoustic
+feedback, were reported to be preferred by patients (f=4):
+It is often the case that patients are completely
+dependent during strength training , [and] [...]the y
+just kept on exercising and exercising . [...] They often
+continue the exercises until you stop them. [E-10:
+founder of an exergaming compan y]
+Cognitive exercises including “a certain closeness to
+everyday life and also a multimodal animation[...]
+and acoustic feedbac k have been very well received. ”
+[E-03: neuropsychologist]
+Previous Experiences With Novel Technologies
+Although being described as skeptical about the use of
+technological devices, experts percei ved older adults with
+mNCD as ready to use technological devices such as heart rate
+monitors during training (f=9), if its usability is ensured:
+Well I think using a sensor it’s not a problem if the
+wear able is well designed. [E-01: exergaming
+researcher]
+Many people would certainly be okay with a Polar
+chest strap, but a monitor to be worn at the wrist
+would certainly be preferable. If people are told why
+these sensor s are used and what they are measuring ,
+it should be feasible with the chest sensor s as well. It
+may be difficult with certain older ladies or
+overweight individuals, but for the average individual
+this should not be a problem. [E-03:
+neuropsychologist]
+The experts’ perceptions coincided with those of patients. All
+patients were willing to use a heart rate monitor worn with a
+chest strap during training, provided it was benef icial for their
+training. In addition, 75% (6/8) of patients stated that their PC
+or television was usable, whereas 25% (2/8) of patients reported
+limited usability:[Regarding the use of heart rate monitor s during
+training] [...]pr ovided it’s useful I would be ready to
+wear such a heart rate monitor without having any
+reservations at all.[P-01]
+[About the usability of the television] Sure! All you
+have to do is press the switc h. That’ s still possible .
+[P-07]
+[About the usability of the personal computer] Yes,
+using my personal computer works more or less. [...]
+It is just not something of my generation. I have a
+computer and I use it, but there are always things I
+can’t do and have to ask my granddaughter .[P-01]
+Previous Experiences With Exer games [ “Senso (Flex)”
+Specif ically]
+None of the intervie wed patients reported any previous
+experience with exergames in general or with the exergaming
+system “Senso (Flex)” specif ically . Nonetheless, after a short
+introduction to the system, all patients stated that they would
+be willing to try it.
+On the basis of the previous experiences of the experts and
+health care professionals, the interaction with the “Senso, ” its
+overall usability , and the design of the exergames have been
+described as good (f=5). Regarding hardw are components, minor
+usability problems have been reported. Patients were observ ed
+to unintentionally walk off the middle plate without noticing
+the feedback on the screen (f=4), constantly change their focus
+between the game tasks on the screen and the stepping plate to
+anticipate and plan their movements (f=4), or make too small
+steps to tap on one of the outer stepping plates (f=1). In addition,
+the patients needed time to familiarize themselv es with the
+sensiti vity of the stepping plate (f=2):
+[...]the “Senso” is in general well usable and is also
+very often used. [E-04: exergaming researcher]
+The tasks on the “Senso” are very well designed.
+[E-08: project manager therap y]
+[...]the “Senso” is already very user friendly , [but]
+I had a little problem at the beginning of the
+experiment wher e people would accidentally go out
+of the squar e in the middle of the “Senso”. [E-09:
+exergaming researcher]
+Most of the time, the patients look down at that very
+moment and thus do not see the messa ge [on the
+screen] at all. [E-07: physical and occupational
+therapist]
+Additional usability issues were reported to be linked to the
+capabilities of older adults with mNCD. First, it has been
+described that patients are often cogniti vely overloaded when
+trying out new games (f=1), by the occurrence of an unexpected
+situation or technical errors (f=2), or by the cogniti ve task
+demands required to interact with the exergame system in
+general (f=1), which may limit training duration owing to
+attentional exhaustion (f=2):
+With new games, patients are often overwhelmed in
+general, because they don’t know what to expect.
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 7 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXThey often need time to find their way around. [E-07:
+physical and occupational therapist]
+[...] Patients are completely overwhelmed as soon as
+something unexpected or a technical problem occur s.
+[E-03: neuropsychologist]
+In contrast, the physical capabilities were reported to not directly
+affect the usability of the system (f=4), although some patients
+experienced difficulties with backw ard steps (f=2), and many
+patients made use of the handrail to reduce the physical strain
+(f=6). In some cases, physical limitations (eg, fatigue and joint
+pain) resulting from static loading have been reported to limit
+the training duration (f=4):
+Patients often have problems with backwar d steps.
+[and] Patients hold on to the handr ail far too often.
+[...] it is often the case that people hold on because
+it is simply ‘a bit more comfortable .[E-10: founder
+of an exergaming compan y]
+Often it is already difficult and tiring for patients to
+stand for a longer period of time. It is often easier for
+them to walk. [and] Howe ver, it should be noted that
+this form of fatigue is not necessarily compar able to
+fatigue caused by physical training . Fatigue does not
+necessarily come from physical exertion. It is possible
+that this type of fatigue is caused by the static load
+and the resulting joint pain. [E-06: physical and
+occupational therapist]
+When considering the specif ic games of the exergaming device
+“Senso” (video illustrations and explanations of all currently
+available games can be found at [71]), the simple and clear
+design structures of the games (f=4) and the intuiti ve tasks were
+reported to be highly appreciated by patients and promote good
+comprehensibility , which was reported for the games “Simple”
+(f=3), “Birds” (f=3). Nonetheless, there are also games that
+were reported to cause problems of understanding, in particular
+the games “Simon” (f=3), “Tetris” (f=3), “Habitats” (f=4),
+“Targets” (f=1), and “Snak e” (f=2). These problems may be
+related to the game instructions (f=9):
+[...]Many people are very happy with simple design
+structur es. This should be maintained at all costs
+when designing new games for MCI patients.
+Howe ver, [...]some kind of adjustment of the game
+instructions is definitely needed. [E-10: founder of
+an exergaming compan y]
+For patients, a game does not stand out by its great
+graphics, but by the game tasks as such.[E-08: project
+manager therap y]
+[About problems of under standing the games] I think
+the reasons were that they didn’ t really under stand
+the instructions well. [E-09: exergaming researcher]
+However, it could also be related to the task demands of the
+games. It was reported that the patients need some time to
+familiarize themselv es with the game to fully understand it
+(f=1). According to the experts’ experiences, this works well
+with the games “Simple” (f=4), “Birds” (f=1), “Flexi” (f=1),
+and in some cases “Habitats” (f=1). At the same time, games
+such as “Flexi” (f=1), “Habitats” (f=6), “Hexagon” (f=3),“Simon” (f=6), “Ski” (f=4), “Targets” (f=12), and “Tetris” (f=4)
+were frequently reported to start at an already (too) challenging
+level for older adults with mNCD and progress too fast while
+there is a limited range of games or adaptability of task demands
+at the lower end of difficulty levels (f=9). This was mentioned
+to be mainly apparent for the cogniti ve task demands (eg, game
+speed and task comple xity), whereas physical exercise intensity
+is often (too) low and could be increased (f=4):
+For MCI-patients, some games are predestined to be
+used with them, such as “Simple ,” “Flexi,” “Birds”
+and perhaps also “Habitats. ” These games don’t put
+so much time pressur e and the feeling of having
+missed something on patients. [E-08: project manager
+therap y]
+[...]the increase in the challeng e profile from the
+easiest games (“Simple” and “Birds”) to the next
+more difficult game is too steep for MCI-patients. For
+example , the game “Targets” is too fast for many
+patients. The game “Habitats” contains too many
+stimuli at once , so that the patients no longer know
+what they have to pay attention to.[E-07: physical
+and occupational therapist]
+[...]I have the impression that the internal
+progression, which is responsible for adapting the
+game demand, sets the lower limit too high and adapts
+too quickly, so that the cognitive overload becomes
+visible very quickly, especially in MCI-patients. [E-08:
+project manager therap y]
+One problem with the “Senso, ” in general, is that the
+physical intensity might well be higher .[E-05:
+neuropsychologist]
+Overwhelming task demands may cause frustration or refusal
+of games (f=6), although the feedback mechanisms to indicate
+errors work subtle (f=4). In contrast, games that are percei ved
+as being too easy lead to boredom (f=2):
+For example , the games “Targets,” “Ski” or
+“Hexagon” are very confr onting , and patients
+recognized quite quick: “Okay , I can’t do it,” and
+that frustr ates patients. [...] Usually , these patients
+stop in the middle and say something like: “Ah, I
+don’t need that kind of shit.” Most of the time, they
+stop the training session immediately and don’t want
+to continue anymor e.[E-08: project manager therap y]
+My observation was that the negative feedbac k
+currently used does not demotivate the patients at all.
+It is also clear to the patients that they need to know
+when they are making mistak es and whether they are
+completing the tasks correctly.[E-04: exergaming
+researcher]
+Some of the negative feedbac k is so subtle that it is
+not even noticed. [E-05: neuropsychologist]
+T3: Motivators for Training
+The experts described numerous motivators for training older
+adults with mNCD. The most frequently described motivators
+can be classif ied as intrinsically regulated motivators (f=44),
+which are directly related to exergames. Excitement, enjoyment,
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 8 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXor fun is percei ved as a central motivator for performing
+exergames (f=4). This was reported to be maintained by the
+capti vating character of exergames (f=1) and multimodal
+animation (f=1), which is supported by specif ic game
+components (eg, game tasks or designs close to everyday life
+[f=6] or with personal relations or memories [f=1] including
+music or sound effects [f=8], animals or plants [f=4], landscapes
+[n=1], or colors [f=1]). In addition, patients were described as
+intrinsically motivated by gamification (f=6), the feeling of
+being optimally challenged (n=3), or simply by the variation of
+training (f=6):
+For patients, the focus is primarily on having fun with
+the games. For example , they [...]lik ed watching birds
+and listening to birdsong and felt very motivated by
+the personal connection. Through these personal
+memories [...] a whole other level of motivation
+emer ged.[E-08: project manager therap y]
+I think that those people who enjoy playing games
+are generally captur ed by the playful and competitive
+natur e of the games. Furthermor e, training with
+exergames is something completely different
+compar ed to classical therapy. Patients appreciate
+this chang e from the “dry” standar d therapy.[E-06:
+physical and occupational therapist]
+However, when task demands become too high (f=6) or too low
+(f=2), patients have been observ ed to promptly lose their
+willingness to perform the exergames, as already reported.
+External motivators such as social support (eg, by therapists or
+caregivers) or group dynamics have also been reported to
+impro ve motivation to train (f=12). Feeling concerned about
+cogniti ve deterioration or being confronted by performance
+classif ications can either motivate or induce negative feelings
+(f=7). Finally , some patients were also reported to be motivated
+by the effectiveness of exergames (f=2) or performance
+impro vements (f=2):
+I consider this social support to be very centr al. [...]
+If a relative joins in for motivation or support it can
+be very valuable .[E-04: exergaming researcher]
+I think there are always patients who don’t want to
+know how well they are performing . Forcing
+performance feedbac k on such people can of course
+be motivating , but it could also be negative and
+confirm their limitations. [E-07: physical and
+occupational therapist]
+From the patients’ viewpoint, all patients reported that they
+could primarily be motivated to train regularly by the
+effectiveness of the training, helping them achie ve their
+individual success (f=13, n=8, 100%). Alternately , patients
+reported being motivated by their relati ves or partners (f=2,
+n=1, 13%) and enjoyment of exercising (f=1, n=1, 13%). Having
+to travel to a training facility was reported to have a negative
+effect on training motivation and adherence (f=4, n=1, 13%):
+It would be nice if I could go for a walk in the forest
+again without falling down. I used to do this four
+times a week for 75 minutes. It motivates me to train
+so that I can do this again in the futur e.[P-02]It would motivate me if I could improve my abilities
+(balance) again. [...] I would like to stay independent
+and modern, not to be called an old lady.[P-03]
+The success. I no longer need to be motivated. If I set
+my mind to it, I do it![P-08]
+T4: Training Goals and Outcomes
+Regarding the training goals, cogniti ve functioning (f=19)
+should be targeted in the training interv ention in the experts’
+viewpoint while also addressing ADLs and mobility (f=3),
+addressing physical capabilities (f=3), and accounting for
+psychosocial factors (f=2), such as feelings of insecurity .
+However, the weighting of the training focus differs signif icantly
+between experts in different fields:
+[...] higher order processes (i.e. divided attention or
+the ability to plan) are affected in most patients.
+Therefore, it is important to focus on these higher
+order cognitive functions. [E-05: neuropsychologist]
+I think that the coupling of brain functions with
+physical functions is centr al. At the same time [...]it
+is important to focus on what is impair ed. If the
+frontal lobe is impair ed, it is certainly important to
+train executive functions, attention and inhibition.
+[E-10: founder of an exergaming compan y]
+Primarily physical activation, especially that people
+get moving and walk. But also, to train the intuitive
+way of taking steps. [...] The cognitive aspects of the
+training have always played a subor dinate role for
+me, but they were usually not decisive for the success
+of the therapy, as this was often trained differently ,
+and I am not an expert in this. [E-06: physical and
+occupational therapist]
+When asking experts about the training goals of patients, ADLs
+and mobility (f=5) were the most frequently stated in addition
+to cognition (f=3) and physical functioning (f=2). In addition,
+psychosocial factors (f=2) have been reported to include
+socializing or having fun:
+I had patients who wanted to continue training
+because the training made them more confident in
+their gait. They felt better balance after the training .
+[E-06: physical and occupational therapist]
+The patients also see the cognitive aspects of the
+training , of course. [...] We often explain to the
+patients that falls prevention has a cognitive and
+physical aspect and that these aspects interact.
+Therefore, the patients mainly go to the training with
+the aim of improving their gait. [E-07: physical and
+occupational therapist]
+Some people really know what’ s going on and they
+know that they have a disease and that they can
+prevent or slow down the progression by doing
+physical activity and exergames. But then other s don’t
+really know that they have cognitive deterior ation
+and they’re just playing a game and having fun
+without specif ic training goals. [E-09: exergaming
+researcher]
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 9 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXThis is consistent with patients’ viewpoint who most frequently
+reported impro ving gait (f=6, n=5, 50%), memory (f=3, n=3,
+38%), and balance (f=2, n=2, 25%) as their primary goal to
+increase their quality of life. In addition, patients reported being
+more active (f=1, n=1, 13%), increased functional abilities (ie,
+cooking; f=1, n=1, 13%), increased strength (f=1, n=1, 13%),
+or remaining independent in ADLs (f=1, n=1, 13%) as training
+goals:
+It is mainly the memory . It is memory because it
+affects a lot of other things. [P-01]
+It would be wonderful, if I could go for a walk in the
+forest again without falling down. [P-02]
+I really want to remain independent. I definitely don’t
+want to become dependent on other s.[P-05]
+That I can keep things better in my head. That has
+diminished. That would be nice! [P-06]
+I want to have more strength again to increase
+stability and be able to walk longer.[P-08]
+T5: Exergame and Training Components
+Location
+Regarding training location, the experts reported that the patients
+would either prefer individual training at home (f=3) or in a
+mixed setting, including training at home combined with training
+at a clinic (f=4). None of the experts stated that patients would
+prefer exercising at a clinic or training facility in general, as
+this is often associated with excessi ve time expenditure. Training
+at home was reported to be benef icial, because it represents a
+known environment that makes patients feel more secure.
+However, the experts also stated that patients may not be capable
+of performing exercises or exergames independently and
+therefore need guidance throughout each training session (f=4)
+or at least partially (f=9); for example, when starting up the
+system or in case of technical problems:
+The advanta ge of training at home is that “it’s a
+known environment and they feel safer at home and
+also don’t have to travel.” Howe ver, “I would suggest
+that the help of a guiding therapist with experience
+will be necessary .”[E-09: exergaming researcher]
+In a previous investigation [...], patients’ feedbac k
+was that 70% could imagine doing the training from
+home . [...] For MCI-P atients specif ically , relatives
+may be involved. But in general, the need for
+home-based exergame training is there, I would say.
+[E-08: project manager therap y]
+This is also reflected in the outcomes of the question of whether
+patients would be capable of performing home-based exergame
+training; the experts mainly reported that patients are certainly
+capable (f=4) or should be capable of considering some concerns
+(f=9) to perform such a training program independently at home.
+The concerns that need to be considered include the
+impro vement of game instructions (f=2), accessibility of a
+handrail or similar for safety support (f=2), and avoidance of
+technical problems (f=2) or the integration of a guided
+familiarization period (f=1) or support of a care professional or
+partner (f=2):I think if the system would really work properly then
+you could use it at home . Howe ver, if you just have
+some minor technical problems is already like a no-go
+to use it at home at all.[E-01: exergaming researcher]
+It would certainly be good if the patients could
+complete an accompanied training for a certain
+period of time in order to facilitate the transfer to
+training at home .[E-04: exergaming researcher]
+[...] some kind of adjustment of the instructions is
+needed [...], especially for this patient group and for
+independent training in the home-based setting . [...]
+The instructions have to be adapted in such a way
+that under standing can be achieved without someone
+having to stand next to the patients all the time.[E-10:
+founder of an exergaming compan y]
+Of those patients who responded to the question and had a clear
+preference regarding the training location, most (6/7, 86%)
+patients would clearly prefer to train individually at home,
+because it is less time consuming and more flexible. One patient
+did not have a clear preference; she simply wanted to perform
+the exercises where it was easiest for her and preferred group
+exercises:
+For me, it is important that the training can be done
+independently at home . If I have to go to the doctor
+some wher e every time, it’s simply too much work.
+[P-01]
+Preferably at home , if I can. Then I can also choose
+the time when I want to exercise. I have lived my
+whole life with a packed schedule . Now I want to be
+a little freer and more flexible .[P-03]
+Safety
+The experts reported an increased risk for falls, as patients with
+mNCD (1) are easily distractable and (2) have difficulties in
+self-assessment and impaired planning abilities. Therefore, it
+was recommended to use the handrail in the beginning to
+minimize the risk of falls (f=3), which was also requested by 1
+patient. In the case of a home-based exergaming system—which
+may not have a handrail—thorough and clear safety instructions
+are recommended (f=1):
+Especially in the beginning , until the patients have
+under stood what it is all about, it is very important
+to instruct using the handr ail.[E-04: exergaming
+researcher]
+I definitely need a railing to prevent falls during
+training . I often fall down if I don’t have anything to
+hold on to.[P-02]
+Instruction, Familiarization, and Guidance
+As illustrated earlier , certain adaptations are required to enable
+a more independent use of the exergaming device. First, patients
+should be familiarized with the exergaming device and the
+corresponding games considering the following key elements:
+(1) start at an easy level (f=7), for example, by using the game
+“Simple” (f=4), (2) ensure that patients voluntarily try out the
+device (f=3), (3) ensure that you are not too confronting (f=2),
+(4) give patients enough time to familiarize with the new task
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 10 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderX(f=1), and (5) start with a reaction game, then progress to games
+for specif ic domains of neurocogniti ve function (f=1):
+It is very important to start very slowly and at a low
+difficulty level until the patients can better assess their
+abilities on the “Senso”. […] Since the game
+“Simple” waits for a reaction from the individual, it
+is very suitable to start with. [E-04: exergaming
+researcher]
+We always start with a reaction game so that the
+patients can learn the coupling of the cognitive-motor
+functions and learn to interact with the environment.
+Later on, we focus on specif ic cognitive functions.
+[E-10: founder of an exergaming compan y]
+Regarding the instructions, some adjustments are needed to
+impro ve comprehensibility . Currently , there is instructional text
+before starting each game. However, patients with mNCD have
+been reported to have limited comprehension of instructions.
+Therefore, adaptations are needed in the instructions of
+exergames in general and for a home-based exergaming system
+in particular . The experts mainly suggested to use step-by-step
+(f=3) instructions based on a combination of visual (ie, written
+instruction or video demonstration) and verbal instructions (f=4)
+guided by an experienced therapist (f=1). In case of more
+severely impaired patients or for home-based exergaming
+systems, it was suggested that practical demonstrations (f=2),
+video instructions (f=6) or even interacti ve “trial run”
+instructions (f=5) could impro ve comprehensibility of the games:
+The transfer from the written instructions to the
+under standing of what is to be done in the game is
+sometimes difficult. [E-06: physical and occupational
+therapist]
+Personally , I would replace the written instructions
+with a short (few seconds) video sequence showing
+the most important functions of the games. [E-08:
+project manager therap y]
+I would recommend combining visual and verbal
+instructions. For example , through a visual
+presentation with additional step-by-step verbal
+instructions. Verbally we can “pick up” the patients
+very well and get a feeling whether the patients have
+under stood the instructions. [E-03: neuropsychologist]
+[...], some kind of adjustment of the instructions is
+needed. [...] It is definitely important to pursue and
+use these adaptations, especially for this patient group
+and for independent training in the home-based
+setting”, because “in the case of more severe
+impairments, it is often necessary to demonstr ate the
+games step by step by yourself. [...] In other gaming
+systems there is a short test phase with explanations
+and trial runs [...]. Howe ver, this would have to be
+offered as an option, since most patients will no
+longer need it after a few sessions. [E-10: founder of
+an exergaming compan y]
+Finally , when guiding patients through their training sessions,
+social support and guidance by a care professional or partner
+might be benef icial (f=3). However, it was also mentioned thatthis might be critical because of personal conflicts or patients’
+psychological constraints (f=2):
+Family member s could play an important role in
+reminding and motivating patients to complete their
+training .[E-06: physical and occupational therapist]
+I don’t think it’s always a good idea to include family
+member s as guidance , because the pressur e to
+perform gets higher for the patients, since they try to
+hide their impairments from other s. A health care
+professional like a nurse for example or physical
+therapists would be better than a husband or wife, I
+think. They already have a lot of fights in the
+households, because things are not working out as
+they should. [E-09: exergaming researcher]
+From a patient’ s perspecti ve, all patients reported that they can
+imagine training alone, provided they had recei ved thorough
+instructions and understood their tasks. One patient additionally
+requested regular support from a care professional or partner:
+Yes, I think so. Once I learn that, I’m sure I can do it
+independently .[P-03]
+If I am supported by you or by my partner , then I can
+certainly train partly independently .[P-07]
+Exer game System and Content
+Previous experiences of older adults with mNCD using the
+exergaming system “Senso” are illustrated earlier . Building on
+this, several game-specif ic adaptations were suggested by the
+experts (f=9):
+More time should be provided between the balls so
+that the flood of information is reduced (it is often
+overwhelming when several balls are visible on the
+screen very quickly). [E-07 (physical and occupational
+therapist): for the game “Targets”]
+In the initial phase , until patients’ have under stood
+all the game tasks [...], the speed must definitely be
+reduced. [E-06 (physical and occupational therapist):
+for the game “Habitats”]
+There are already enough opportunities to increase
+the task difficulty . [...] Howe ver, it is very important
+to note that the game difficulty is adjusted downwar ds
+so that it is easier to start the training . [E-08: project
+manager therap y]
+In addition to these game-specif ic adaptations, multiple novel
+game designs and elements have been suggested and discussed
+by focus groups to address patients’ needs optimally . In general,
+it has been recognized that there is a need for new games
+specif ically targeting the neurocogniti ve functions of learning
+and memory (f=4) and executi ve functions (ie, working memory
+and cogniti ve inhibition; f=2). Specif ic game design suggestions
+were discussed for such a memory or working memory game.
+Additional suggestions for new game designs and elements
+include the use of music, addition of visual reminders to guide
+patients within the games, or adaptations in performance
+feedback:
+With the “Senso”, a certain spectrum of
+neurocognitive function domains is covered. Howe ver,
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 11 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXgames for working memory , inhibition or memory are
+completely missing . In the case of memory , there is
+currently only one game available specif ically
+targeting the training of short-term memory span.
+[E-05: neuropsychologist]
+I think music would be very motivating for people
+with MCI or dementia also if is music from their youth
+or music they like. It’s also been described in the
+literature that music has so many good effects on
+people when they have heard a song that they liked
+befor e and they are singing that song.[E-09:
+exergaming researcher]
+In addition, it would be good to include reminder s,
+for example at the edge of the screen, which patients
+can use for orientation. [...] Additionally , [...] it would
+certainly be helpful here if the program not only
+displayed the performance curve , but also provided
+a reason or explanation. [E-03: neuropsychologist]
+As general requirements when designing new games, the experts
+recommended using simple graphics and ensuring good contrast
+(f=14), a comfortable relation, and good usability of the
+exergames (f=4) using easily comprehensible and clearly
+designed tasks (f=2) with a certain closeness to everyday life
+(f=7). Multimodal animations, including multisensory feedback
+(f=7), should additionally be integrated by focusing on positi ve
+reinforcement mechanisms (f=2) to motivate the patients during
+exergaming. In addition, it is important that the main task is in
+the center of the screen (f=1) and that only elements that are
+related to the game task are included (f=5). Moreo ver, too
+confronting performance feedback (f=1) and unexpected
+appearance or technical problems (f=2) should be avoided:
+It is very important to create a good contr ast. [...]
+It’s generally important for the older population to
+keep the graphic representation as simple as possible ,
+because for older people , the game is not
+characterized by great graphics, but by the game task
+as such. The main importance is that the right level
+of challeng e is offered.[E-08: project manager
+therap y]
+It is much better to present a simple graphic and focus
+on the aspects that need to be trained. [...]
+unnecessary graphic gimmic ks should be avoided!
+[E-04: exergaming researcher]
+It is important to have a main action that is in the
+center of the screen and to ensur e that the player will
+have primary task in the center . If you put any
+secondary tasks into the games, it can be confusing
+for the patients. [E-02: exergaming researcher]
+Spontaneously , I would say that games close to
+everyday life are more popular . [...] These games
+were much better received than abstr actly structur ed
+games (“visual explor ation tasks”). [E-03:
+neuropsychologist]
+My experience so far is that games that are designed
+to be more relevant to everyday life (and simpler)
+work better . Therefore, new game designs should bebased on what patients know from their everyday
+lives. [E-06: physical and occupational therapist]
+Training Components
+The recommended exercise frequenc y ranged from 2 (f=3) to
+5 or more (f=4) training sessions per week, largely dependent
+on training location and motivation. The recommended session
+durations ranged from a maximum of 15 to 20 minutes (f=3)
+up to 30 minutes (f=2), with the aim of reaching a moderate
+exercise volume of approximately 150 minutes per week (f=1).
+Shorter sessions and a higher training frequenc y have been
+reported to be preferable to reach this training volume, mainly
+owing to attentional exhaustion:
+The more the better! I would prefer shorter training
+sessions, especially because of attentional exhaustion.
+Here I would recommend a maximum of 30 minutes
+and at least 5 sessions a week. This is much better
+than training for 2 hour s at a stretch![E-03:
+neuropsychologist]
+I would recommend a training frequency of 2 –
+3x/week. [...] The training duration is difficult to
+estimate . Some patients are already exhausted after
+2 minutes, other s can easily train for 20 minutes.
+[E-10: founder of an exergaming compan y]
+I think that a training frequency of 3x/week is already
+(too) much. 2x/week should be possible to arrange.
+1x/week definitely works. This may be because three
+appointments, in combination with other activities,
+may already be too much for patients. If the training
+could be done at home , the training frequency could
+certainly be increased up to 4 - 5x/week. In this case,
+motivation could still be difficult. [E-07: physical and
+occupational therapist]
+I would aim for a training volume of 150 min/week.
+As far as I know , this is consider ed moder ate for older
+patients. I would consider 100 min/week as the lower
+limit. A minimum of 3 x per week for 30 min would
+also be okay at best. [E-08: project manager therap y]
+Exercises requiring a coupling of physical and cogniti ve
+functions were described as preferable and should be prescribed
+domain-specif ic depending on the patient’ s abilities:
+I think that the coupling of brain functions with
+physical functions is centr al. Whether this is
+ultimately an attention game , or a training of the
+executive functions is something I don’t consider
+centr al at the beginning . Of course, it also plays a
+role here which cognitive functions are impair ed. [...]
+If the frontal lobe is impair ed, it is certainly important
+to train executive functions, attention and inhibition.
+[E-10: founder of an exergaming compan y]
+To maintain the training program in the long term (preferably
+>12 weeks), motivation is a key factor that can be facilitated
+by the playful character of the exergames and a variation in the
+choice of games. Nonetheless, patients seem to prefer a certain
+routine:
+Of course, the training should be maintained over a
+certain amount of time at a stretch. So not just two
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 12 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXweeks, but ideally longer (mor e than 12 weeks). Of
+course, motivation is also a very centr al point. If the
+training is varied and has a playful character , this
+should be feasible .[E-03: neuropsychologist]
+Patients are generally routine-oriented, which can
+also be observed in general. Therefore, it is also
+important to introduce a new game every now and
+then. The patients primarily prefer the familiar games
+and should therefore be challeng ed to a certain
+variety .[E-10: founder of an exergaming compan y]
+The physical exercise intensity should be maintained at a light
+to moderate level, while the focus should be on game comple xity
+that should be challenging but feasible. Game comple xity can
+be varied on multiple levels, for example, (1) stability support
+(use of handrail with both hands, 1 hand, or no support), (2)
+stepping direction, (3) game choice and tasks included, (4) game
+duration, or (5) game speed:
+Adding new games. I always start with the game
+“Simple” and sometimes in the first session I also
+introduced “Birds” when I think it would be possible .
+If not, then I will do it the next session. If somebody
+is really performing well and under standing all the
+instructions, then I also progress to the game
+“Targets” and even “Birds”. [E-09: exergaming
+researcher]
+I also often started with just stepping movements
+forwar d [...] and included the step direction to the
+right at a later timepoint. [E-10: founder of an
+exergaming compan y]
+We have a routine that we usually do the training
+sessions over 3 weeks and do the first 3 sessions with
+holding , just to get a feel for the games. After that,
+we gradually go back to holding on with one arm and
+without holding on.[E-08: project manager therap y]
+From the patients’ viewpoint, a high training frequenc y (mean
+preferred training frequenc y 5.21 times per week; n=7), ranging
+from 2 times per week (n=1, 13%) to daily sessions (n=4, 50%))
+with short session durations (mean preferred session duration
+23.4, SD 10.3 minutes; n=8), ranging from 10 minutes (n=1,
+13%) up to 30 minutes (n=3, 38%) was preferred. Five of 6
+(83%) patients who responded to the questions about how long
+they would prefer to do the training stated that they would prefer
+to continue the training as long as they profit from it and are
+able to do it. All patients preferred a training that is individually
+adapted to apply moderate (4/5, 80% of patients) to high
+physical (1/5, 20% of patients) intensity and moderate (3/5,
+60% of patients) to high (2/5, 40% of patients) cogniti ve
+challenges:
+If the device was at home , I would do the training
+every day.[P-01]
+I don’t want to make a guarantee now, but I could do
+a short training session every day for like 20 minutes
+or so. But I can’t promise that I’ll do 40 minutes every
+day, because I also want to do other things. Especially
+when the weather is nice, I like to go outside . And
+then I also must do the house work, which also takes
+time.[P-03]I think about 30 minutes is good. If it goes on too long
+or is too strict, then I get tired of it. I don’t like that.
+That would be counterpr oductive .[P-05]
+If I have the device, I could do this training forever.
+As long as I still have the strength to do it.[P-02]
+I would need a bit of a start-up period first. If it’s not
+effective , I’ll stop again. Additionally , I don’t know
+how my health will be in the futur e. But as long as
+I’m reasonably fit, I’ll definitely want to do it.[P-07]
+Individualization
+Individualization of the exergame interv ention concept should
+mainly account for two aspects: (1) task type (ie, choice of
+exergames to individually focus on neurocogniti ve functioning;
+f=4) and (2) task demands (ie, adapting the game demands
+according to the individual capabilities to maintain a challenging
+but feasible cogniti ve load; f=5). In addition, it was
+recommended to change between games with different task
+demands to enable the maintenance of attention over the entire
+training duration (f=2) and to supervise training exertion (f=3):
+It is important to have a system that will adapt the
+games accor ding to the participant’ s performance .
+[E-02: exergaming researcher]
+The physical intensity is often not a problem, and it
+should primarily be the comple xity of the training
+that is individually adapted so that it is doable and
+still has a certain physical demand. [E-10: founder
+of an exergaming compan y]
+[...] We also have to check whether somebody is very
+fatigued [...]. Sometimes you have to let someone take
+a rest because they will not always feel when they
+have to take a rest.[E-09: exergaming researcher]
+One should “[...]alternate between games that focus
+primarily on performance and less on cognitive
+aspects with more cognitively demanding games. ”
+[E-08: project manager therap y]
+Discussion
+Principal Findings
+The objecti ve of this study was to determine the capabilities,
+treatment preferences, and motivators for training older adults
+with mNCD, as well as their perspecti ves on training goals,
+settings, and requirements for exergames and training
+components. This will—together and in line with a synthesis
+of the optimal evidence-based informed decisions—serv e as
+basis for user modeling, determination of therapeutic needs,
+and definition of a set of requirements for the game design and
+development process of a novel exergame-based training
+concept. To the best of our knowledge, this is the first study to
+systematically and thoroughly investig ate user requirements
+and preferences for an exergame-based training concept before
+it is designed and developed specif ically for older adults with
+mNCD based on these findings.
+The results of our qualitati ve study , which included focus groups
+with 10 experts or health care professionals and individual
+semistructured, in-depth intervie ws with 8 older adults with
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 13 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXmNCD, yielded the following key findings: (1—capabilities)
+from a patients’ viewpoint, the psychosocial consequences of
+their self-percei ved cogniti ve deteriorations might be more
+burdensome than the cogniti ve changes themselv es;
+(2—treatment preferences) more integrative forms of training
+(such as exergaming) including gamified tasks close to everyday
+life, multimodal animation, and acoustic feedback are preferred
+by patients. None of the intervie wed patients reported any
+previous experience with exergaming, but all patients described
+the handling of different technologies as feasible despite some
+challenges and were willing to try out exergaming;
+(3—moti vators for training) from the expert’ s viewpoint, the
+most frequently described motivators to train can be classif ied
+as intrinsically regulated motivators such as excitement,
+enjoyment, or fun in exercising that is maintained by the
+capti vating character of exergames supported by specif ic game
+components (eg, game tasks or designs close to everyday life
+or with personal relations or memories including music or sound
+effects, animals or plants, landscapes, or colors); the feeling of
+being optimally challenged; and the variation of training. All
+patients reported that they could primarily be motivated by the
+effectiveness of the training, helping them to achie ve success
+on an individual basis; (4—training goals and outcomes) the
+most important training goals of older adults with mNCD
+include impro vements in ADLs and mobility (gait and balance)
+and memory , because these outcomes were described as central
+to impro ving their quality of life; (5—e xergame and training
+components) the use of home-based exergames as a form of
+simultaneous-incorporated motor -cogniti ve training should be
+prescribed with a domain-specif ic training focus depending on
+a patient’ s cogniti ve abilities, a high training frequenc y (4-5
+training sessions per week), short session durations (20-25
+minutes), and individual adaption and progression of task type
+and demands to reach a light to moderate level of physical
+intensity and a challenging but feasible game comple xity. To
+maintain the training program in the long term (preferably >12
+weeks), motivation is a key factor and should be facilitated by
+the playful character of the exergames, variation in the choice
+of games, and ensuring that the patients are optimally
+challenged. To make home-based training interv entions feasible,
+multiple factors that need to be considered were identif ied.
+Patient-friendly game instructions are needed, while the
+accessibility of a handrail or similar for safety support,
+avoidance of technical problems, and the integration of a guided
+familiarization period or support from a care person need to be
+ensured to make home-based exergame training feasible. As
+general requirements for exergame design, simple graphics with
+good contrast and easily comprehensible and clearly designed
+tasks with a certain closeness to everyday life should be used.
+Multimodal animations, including multisensory feedback that
+focuses on positi ve reinforcement mechanisms, should be
+integrated to motivate patients during exergaming. In addition,
+it is important that the main task be in the center of the screen
+and that only elements that are related to the game task are
+included. Moreo ver, confronting performance feedback and
+unexpected appearances or technical problems should be
+avoided.Capabilities of Older Adults With mNCD
+A variety of cogniti ve changes mainly affecting the
+neurocogniti ve domains of learning and memory , comple x
+attention, and executi ve function were discussed by the focus
+groups and mentioned by the patients, whereas no serious
+restrictions on physical capabilities, mobility , and ADLs were
+reported. This is in line with DSM-5 [9]. According to the
+definition of mNCD, modest (ie, for mNCD, performance
+typically lies in the 1-2 SD range) deterioration in cogniti ve
+functioning can be observ ed, whereas the capacity for
+independence in everyday activities is preserv ed [9]. However,
+from the patient’ s perspecti ve, the most prominent consequences
+of their disorder were described as affecting psychological
+factors, mainly by causing psychological distress, feelings of
+insecurity , and depression. It is well known that depression and
+anxiety are common in older adults with mNCD [72,73]. In
+addition, patients with depression have higher rates of
+conversion to dementia, indicating that depression is an
+important risk factor for cogniti ve decline and progression to
+dementia. This emphasizes the importance of assessing
+depressi ve symptoms in older adults with mNCD [72].
+Treatment Experience and Preferences
+Most of the intervie wed patients had already gained experience
+with different treatment or training approaches to counteract
+cogniti ve decline and preserv e physical capabilities, mobility ,
+and ADLs. Although MTT , physiotherap y, and CCT were
+percei ved as useful, the patients reported being insecure about
+the effectiveness of these approaches or that they would have
+to (be able to) do it more consistently to profit from it, which
+was described to be limited by the availability of therapists.
+More integrative forms of training, including gamified tasks
+close to everyday life, multimodal animation, and acoustic
+feedback, were reported to be preferred by patients.
+This is in line with the literature, showing that “research
+involving older adults has found that CCT programs are
+associated with high satisf action levels, and that they are also
+a feasible option for individuals with MCI, with equal or better
+adherence rates when compared with traditional cogniti ve
+training ”[74-76]. This is also evident in the use of exergames.
+Exergame-based training interv entions are widely accepted in
+individuals with mNCD, and exergames increase or enhance
+participants’ motivation to engage in rehabilitation activities
+[40]. This is also reflected by the adherence rates to different
+types of exercises in patients with mild to major NCD. Recent
+systematic reviews and meta-analyses synthesized mean
+adherence rates of 70% [77] for physical exercise interv entions,
+whereas the mean adherence rate was higher for exergame-based
+interv entions at 84% [78]. To the best of our knowledge, there
+is no systematic review that has synthesized adherence rates to
+CCT. However, Turunen et al [79] investig ated adherence to a
+long-lasting multidomain CCT among a sample of 631 older
+adults at risk of dementia. It was shown that only 20% of
+participants completed at least half of their CCT sessions, and
+only 12% of participants completed all (maximal number of
+training sessions=144) of their training sessions. In addition,
+37% of the participants did not train at all, whereas “previous
+use of computers, better memory , being married/cohabiting,
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 14 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXand positi ve study expectations were independently associated
+with the greater probability of starting the CCT. Previous
+computer use was the main determinant of the number of CCTs
+completed after the training was initiated ”[79]. Therefore, when
+comparing these findings, it appears that exergame-based
+interv entions have the highest adherence rates among different
+training programs. This is consistent with findings in HOAs,
+where adherence to technology-based training programs was
+higher than that to traditional training programs, independent
+of study site or level of supervision [80]. This finding may be
+largely explained by the high level of enjoyment in using
+technology-based physical exercise programs [80].
+Technology-based training systems offer several advantages
+over traditional training programs that may contrib ute to a more
+enjoyable exercise experience. For example, exergames can
+provide real-time feedback and positi ve reinforcement while
+exercising and can monitor performance over time [80]. In
+addition, exergames enable individual real-time adapti vity of
+physical and cogniti ve task demands according to the
+participants’ performance or physiological response (eg, heart
+rate and brain activity), which is considered a key advantage of
+serious video games (such as exergames) [81-83]. In fact, the
+findings of our study suggest that applying an optimal challenge
+is central to promote the use of exergames in patients with
+mNCD in the long term.
+When considering the experts’ previous experience in the use
+of exergames (ie, “Senso”) with patients with mNCD, the
+interaction with the device, its overall usability , and the design
+of the exergames were described as good. Especially the simple
+and clear game design structures were reported to be highly
+appreciated by patients and to promote good task
+comprehensibility . Various minor usability issues were reported,
+including difficulties in the interaction with the exergame
+training system “Senso” (eg, unintendingly walk off the middle
+plate without noticing the feedback on the screen), but mainly ,
+usability issues that related to capabilities of older adults with
+mNCD (eg, limited comprehensibility of the game instructions)
+were reported. These usability issues need to be considered and
+addressed when developing a training concept specif ically for
+older adults with mNCD. Nevertheless, it is important to
+emphasize that these are only minor usability issues, and only
+minor refinements are required to optimize the exergame
+experience. This is also illustrated by recent studies showing
+that exergame-based training programs using the “Senso” are
+feasible; usable; and widely accepted in different populations
+including community-dwelling older adults [84], geriatric
+inpatients [51], and patients with major NCD [52], chronic
+strok e [85], or multiple sclerosis [86]. Therefore, when designing
+and developing an exergame-based training concept specif ically
+for older adults with mNCD, these refinements should primarily
+target the adaptability and individualization of task demands
+and the optimization of the instruction of the exergames.
+Moti vators for Training
+The motivating factors most frequently described by experts
+were classif ied as intrinsic motivators. These were described
+as being maintained by the capti vating character of exergames
+and promoted by specif ic game components such as game tasks
+or designs close to everyday life or with a personal relation ormemory , including music or sound effects, animals or plants,
+landscapes, or colors. In addition, patients were described to be
+intrinsically motivated by gamification and the feeling of being
+optimally challenged. From a patient’ s perspecti ve, the
+effectiveness of the training, which helped them achie ve their
+individual success, was clearly the most prominent motivator.
+This is consistent with reports in the literature. More
+autonomous forms of motivation can be promoted by various
+factors, although these factors may vary depending on the
+population. For example, a small case-control study compared
+the motivational factors for using a balance exergame platform
+between health y younger and older adults. It was shown that
+“older adults were more intrinsically motivated by the joy of
+playing and extrinsically motivated by the percei ved health
+effects (physical and cogniti ve), with less regard for the in-game
+rewards”[87]. To provide effective interv entions to promote
+physical activity [88] in patient with NCDs, a new theoretical
+model has recently been introduced. This theoretical model is
+based on the review of existing theories that explain behavior
+change in relation to physical activity in HOA, which were then
+adapted and integrated to a new theoretical model called the
+“PHYT in dementia” [88]. In this frame work, several additional
+key elements for promoting behavioral changes in physical
+activity have been proposed. These consist of self-ef ficacy,
+including embarrassment (eg, supervision of activity had a
+negative impact on engagement in the interv ention), personal
+concerns (eg, fear of falling), and routine (eg, flexible integration
+of physical activity interv ention into daily life regarding place
+and time of performance), as well as appropriate challenges
+[88]. A detailed awareness of participant motivators is required,
+especially for the preference that the routine can be performed
+at home and at different times during the day [88], because
+self-determined motivation may be a central aspect of adherence
+to home-based training programs [89].
+Training Goals and Outcomes
+The intervie wed experts recommended to mainly target cogniti ve
+functioning when developing a training concept for older adults
+with mNCD, while ADLs and mobility , physical capabilities,
+and psychosocial factors should also be accounted for. This is
+consistent with the patients’ viewpoint that most frequently
+reported impro ving gait and memory as their primary training
+goals to increase their quality of life.
+Similar results have been documented in the literature.
+According to a survey of patients who completed a
+multicomponent behavioral interv ention for patients with MCI
+and their caregivers, quality of life was the most important
+outcome priority for patients with MCI, followed by
+self-ef ficacy, depression, basic ADLs, memory-based ADL,
+anxiety , and memory performance [90].
+Exer game and Training Components
+The use of exergames as a form of simultaneous-incorporated
+motor -cogniti ve training is recommended, which should be
+prescribed domain-specif ically , depending on a patient’ s
+cogniti ve abilities. Previous studies applying exergame-based
+motor -cogniti ve training in older adults with mNCD or MCI
+have used commercially available exergame systems [76,91-96]
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 15 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXor exergames that were specif ically developed for patients with
+mNCD or MCI [97-100], which comprised sensor -based
+stepping platforms [94], video camera–based or wireless remote
+device systems [76,91,95,97,99], or exergames that were
+controlled using a cycle ergometer or similar [92,93,96,98,100].
+The training programs can be classif ied as simultaneous-
+additional [92,93,96,98] or simultaneous-incorporated
+[76,91,94,95,97,99,100] motor -cogniti ve training that was
+applied targeting 1 [93,100] or multiple [76,91,92,94-99]
+neurocogniti ve domains, including comple x attention
+[76,91,92,94-99], executi ve functions [76,91,92,94-100],
+learning and memory [91,93-95,97-99], or visuospatial skills
+[76,97,99]. Only one of these studies applied training that
+individually prescribed content on the basis of a patient’ s
+cogniti ve abilities [96]. However, it has not been performed or
+reported in a reproducible manner .
+Therefore, so far and to the best of our knowledge, 11 studies
+have been published that investig ated exergame-based
+motor -cogniti ve training in older adults with mNCD or MCI.
+Most of these studies designed or used exergames that could
+be classif ied as simultaneous-incorporated motor -cogniti ve
+training. Incorporating cogniti ve tasks into motor tasks may be
+more benef icial for consolidating neuroplasticity [42], because
+(1) it leads to greater (motor) cogniti ve impro vements, (2) it is
+closer to daily life situations, (3) no prioritization effects occur ,
+which can be observ ed in motor -cogniti ve training with
+additional cogniti ve tasks, and (4) multiple sensory systems are
+stimulated at the same time, which may provide an optimal
+basis for cogniti ve processes such as learning [42]. Meta-analytic
+evidence suggests that simultaneous motor -cogniti ve training
+is the most effective type of training for impro ving cognition
+in HOA [43,44] and in older adults with mNCD [44-46].
+Nevertheless, it remains to be evaluated whether the
+incorporation of cogniti ve tasks into exercise or training
+interv entions indeed results in more distinct effects on cogniti ve
+performance compared with simultaneous motor -cogniti ve
+training with a non–task-rele vant secondary cogniti ve task [42].
+Finally , there seems to be room for impro vement regarding the
+domain-specif ic prescription of the training content, considering
+a patient’ s cogniti ve abilities and the adaptation and
+development of exergames specif ically for patients with mNCD.
+This may be especially relevant when considering the large
+heterogeneity in the clinical symptoms of older adults with
+mNCD. Remarkably , most previous studies applying
+exergame-based motor -cogniti ve training in older adults with
+mNCD or MCI have used commercially available exergame
+systems [76,91-96], in which the training content does not
+specif ically target patients with mNCD. This is consistent with
+the findings of HOA. In a systematic review, Valenzuela et al
+[80] emphasized that in HOA, most studies used commercially
+available exergame systems. It was argued that these systems
+may be difficult to use for those with little or no experience
+with technology , because these systems often lack clear
+instructions, present too much graphical information, and have
+not been designed and developed to provide optimal training
+components for the target population and aims of the studies in
+which they were used [80]. In fact, all previous studies applying
+exergame-based motor -cogniti ve training in older adults with
+mNCD or MCI have used exergames with comple x 2D or 3Dvirtual environments [76,91-100]. This may not be optimal
+because the limitation that such systems may be difficult to use
+for those with little or no experience with technology could be
+even more pronounced in patients with mNCD, as these patients
+are easily distracted and quickly overwhelmed by the task
+demands. Indeed, according to the recommendations of the
+intervie wed experts, it is benef icial to focus on the aspects that
+need to be worked on by implementing easily comprehensible
+and clearly designed exergame tasks and to only present
+elements that are directly related to the game tasks while
+avoiding unnecessary graphical information or distractors.
+According to the recommendations of the intervie wed experts,
+the training program should be maintained over the long term
+(preferably ≥12 weeks). A training frequenc y of 2 to 5 or more
+training sessions per week was recommended, largely depending
+on the training location and motivation. In addition, it is
+recommended to reach a moderate training volume of
+approximately 150 minutes per week. To reach this training
+volume, shorter training sessions and a higher training frequenc y
+should be applied, because longer training sessions might lead
+to attentional exhaustion in this group of patients. Therefore,
+the experts recommended session durations between 15 and 20
+minutes up to a maximum of 30 minutes. Previous studies
+applying exergame-based motor -cogniti ve training in older
+adults with mNCD or MCI have prescribed training programs
+over durations of 5 weeks [97], 6 weeks [91,94,98,100], 12
+weeks [96,99], 3 months [93,95], 24 weeks [76], or 6 months
+[92]. The prescribed training frequenc y was 1 time per week
+[76], 2 times per week [94,96,99], 2 to 3 times per week [95],
+3 times per week [97,98], 3 to 5 times per week [92,93,100], or
+5 times per week [91] with session durations of 15 minutes [99],
+18 to 30 minutes [94], 20 to 80 minutes [97], 25 to 30 minutes
+[91], 20 to 40 minutes [93], 30 to 45 minutes [100], 40 to 45
+minutes [98], 45 minutes [92], 60 minutes [96], 90 minutes [76],
+or not reported [95], resulting in a weekly training volume of
+30 minutes [99], 36 to 60 minutes [94], 60 to 200 minutes [93],
+90 minutes [76], 90 to 225 minutes [100], 100 to 145 minutes
+[97], 120 minutes [96], 120 to 135 minutes [98], 125 to 150
+minutes [91], 135 to 225 minutes [92], or not reported [95].
+Therefore, most of these studies prescribed a training volume
+that was in line with the recommendations of the experts in this
+study . However, the session durations often exceeded the
+experts’  recommendations, whereas the training frequenc y was
+lower than recommended. To avoid attentional exhaustion of
+the patients during training, future training concepts might
+consider prescribing shorter session durations while increasing
+the training frequenc y to achie ve a similar training volume per
+week. This might actually impro ve the effectiveness of the
+interv ention because higher training frequencies have already
+been shown to promote the effectiveness of physical (ie, ≥4
+times per week) [101] and cogniti ve training (ie, >3 times per
+week) [102], while shorter session durations (ie, ≤30 minutes)
+[101] of physical exercise have been shown to exert more
+pronounced training effects. These findings might also apply
+to simultaneous motor -cogniti ve training. A meta-analysis
+revealed that training frequenc y is a signif icant moderator of
+the effects of physical and motor -cogniti ve training interv entions
+on cogniti ve functioning, favoring higher training frequencies
+(≥5 times per week) in a mixed population of HOA and patients
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 16 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXwith mNCD [103]. Finally , a high training frequenc y
+(approximately 5 times per week) with short session durations
+(approximately 20 minutes) would also match the preferences
+of the intervie wed patients in this study .
+The experts reported that the training should preferably be
+individually carried out at the patients’ homes, not only because
+it represents a known environment that makes patients feel more
+secure and represents a less-confronting environment for them
+(because they do not have to hide their impairments from others
+when training alone), but also to allow higher training
+frequencies. Nonetheless, to ensure that training in patients’
+homes is feasible, multiple factors need to be considered. For
+example, impro vements in game instructions are required, a
+handrail or similar needs to be made available to allow safety
+support during training, and technical problems must be avoided.
+In addition, a guided familiarization period and part-time
+supervision or support from a care professional or partner should
+be integrated to make the transfer to home-based exergaming
+easier . Previous studies applying exergame-based
+motor -cogniti ve training in older adults with mNCD or MCI
+have administered individual [91] or group-based [76,96,99]
+training sessions, and the training setting (ie, individual vs group
+sessions) has not been clearly reported [92-95,97,98,100]. The
+training sessions were conducted at the hospital [91], in a
+nursing home [94], at day-care centers or memory clinics [99],
+at a centrally located church [76], at patients’ homes [93,100],
+or the training location was not clearly reported [92,95-98]. The
+training sessions were supervised by a therapist [91,94,96], or
+supervision was not reported [76,92,93,95,97-100]. Consistent
+with summarized previous studies applying exergame-based
+motor -cogniti ve training in older adults with mNCD or MCI,
+most cogniti ve training programs to date have also been
+conducted in group sessions [104]. However, most of our
+intervie wed patients clearly stated that they would prefer to
+train individually at home or with the support of a care
+professional or partner . Therefore, it might be worthwhile to
+put more effort into designing and developing exergames that
+can be used individually at home. This would possibly also
+reduce the barriers of patients with mNCD to engage in
+exergame-based training programs in the long term.
+Regarding training demands, the experts recommended focusing
+on game comple xity to ensure a challenging but feasible
+cogniti ve demand. Physical exercise intensity should be
+maintained at a light to moderate level. To allow
+individualization of the cogniti ve demand in training, two main
+aspects should be considered: (1) task type (ie, choice of
+exergames to individually focus on neurocogniti ve functioning)
+and (2) task demands. To allow individualization of task
+demands, the following factors should be varied based on the
+experts’ recommendations: (1) stability support (use of handrail
+with both hands, one hand, or no support), (2) stepping direction,
+(3) game choice and tasks included, (4) game duration, or (5)
+game speed. Previous studies applying exergame-based
+motor -cogniti ve training in older adults with mNCD or MCI
+have applied relati vely effortful, high cogniti ve demands [92],
+low [97] to moderate [96-98] physical exercise intensities, or
+have not reported the physical [76,91-95,99,100] or cogniti ve
+[76,91,93-100] exercise load or training progression in a clearlyreproducible way. This exemplif ies the fact that the optimal
+cogniti ve load for motor -cogniti ve training remains unkno wn.
+To the best of our knowledge, there has only been 1
+meta-analysis to date that compared the effects of training
+interv entions on cogniti ve functioning in relation to different
+task comple xities and found no difference between simple and
+comple x cogniti ve games [105]. Therefore, further investigations
+are needed to identify the optimal cogniti ve training demands
+and optimize the monitoring and progression of training
+programs. For physical exercise intensity , the recommendations
+of the intervie wed experts are in line with those of previous
+studies applying exergame-based motor -cogniti ve training in
+older adults with mNCD or MCI. This also matches the analysis
+of the moderating variables of the training parameters that
+influence the effectiveness of the interv entions. Based on
+meta-analytic results from motor -cogniti ve training in older
+adults with mNCD, moderate physical training intensity [45]
+has been shown to be most effective in impro ving cogniti ve
+function. Finally , moderate physical exercise intensity would
+also match the preferences of the patients intervie wed in this
+study .
+Implications for Resear ch
+Our findings serve as a basis for user modeling, determination
+of therapeutic needs, and definition of a set of requirements for
+the game design and development of novel exergame-based
+training concepts. To increase the probability that the resulting
+training will be deemed feasible in future clinical practice, these
+considerations should be integrated to guide the decision process
+for the most suitable exergame design and interv ention
+components when developing novel exergames and
+exergame-based training concepts.
+Limitations
+The outcomes of this qualitati ve study must be interpreted with
+some caution, considering the following limitations. First, none
+of the intervie wed patients with mNCD belonged to the clinical
+subtypes of mild frontotemporal NCD or mNCD with Lewy
+bodies. Depending on the clinical subtypes and the associated
+clinical pictures of the patients, different findings may have
+emer ged from patient intervie ws. However, a substantial fraction
+(ie, ≥60%) of mild or major NCD is attrib utable to Alzheimer
+disease, whereas mild vascular NCD is the second most common
+cause of NCD after Alzheimer disease; frontotemporal NCD
+only accounts for approximately 5% of cases [9]. Therefore,
+the included study population appeared to be representati ve of
+these clinical subtypes. Second, owing to difficulties in
+recruiting patients, those screened for MCI according to
+predef ined criteria were recruited in addition to patients with a
+clinical diagnosis of mNCD, which increased the heterogeneity
+of the study population. By contrast, in our project, we aimed
+to develop an individualized exergame-based training concept
+not only to treat clinically diagnosed patients with mNCD but
+also to prevent progression to dementia in individuals at risk
+who might not have been diagnosed (yet). Third, owing to the
+COVID-19 pandemic, all focus group sessions were held as
+web-based meetings. Face-to-f ace focus group sessions might
+have promoted livelier exchanges and may have led to additional
+insights.
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 17 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderXConclusions
+The psychosocial consequences of patients’ self-percei ved
+cogniti ve deterioration may be more burdensome than the
+cogniti ve changes themselv es. Older adults with mNCD prefer
+integrative forms of training (such as exergaming) and are
+primarily motivated by enjoyment or fun in exercising and the
+effectiveness of the training. Putting the synthesized perspecti vesof training goals, settings, and requirements for exergames and
+training components into conte xt, our considerations point to
+opportunities for impro vement in research and rehabilitation,
+either by adapting existing exergames to patients with mNCD
+or by developing novel exergames and exergame-based training
+concepts specif ically tailored to meet patient requirements and
+needs.
+Ackno wledgments
+The authors would like to thank the Synapsis Foundation—Dementia Research Switzerland (grant 2019-PI06) for funding this
+project. The authors would like to thank all the participants in this study for their participation and valuable contrib utions to this
+project.
+Data Availability
+The data supporting the findings of this study are available from the corresponding author (PM) on reasonable request.
+Authors' Contrib utions
+PM was responsible for the conception and protocol development of this study under the supervision of EDdB. MAO contrib uted
+to the study conception. PM was responsible for the recruitment of participants, data collection, data analysis, and writing of the
+manuscript. Data coding and analysis was cross-check ed by MAO. All authors have contrib uted to the revision of the manuscript.
+All authors have read and appro ved the submitted version.
+Conflicts of Inter est
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be
+construed as potential conflicts of interest. Dividat AG was asked to suggest suitable participants for the expert focus group
+discussions by providing a contact list of experts and health care professionals, as the compan y is well connected with institutions
+for geriatric populations, physiotherapies, and rehabilitation clinics in Switzerland. Therefore, we were able to identify experts
+and health care professionals who experienced exergame training with older adults with mild neurocogniti ve disorder . Experience
+was preferred with the exergame training system “Senso (Flex)” or similar . In addition, the founder of Dividat AG was partaking
+in one of the focus group discussions as an industry representati ve in line with the Multidisciplinary Iterati ve Design of Exergames
+frame work. Dividat AG had no other role in the study and did not play any role in the design and conduct of the study; they also
+did not play any role in the data analyses, interpretation, or decision to submit results.
+Multimedia Appendix 1
+Intervie w guides.
+[DOCX File , 32 KB-Multimedia Appendix 1]
+Refer ences
+1. Harada CN, Natelson Love MC, Triebel KL. Normal cogniti ve aging. Clin Geriatr Med 2013 Nov;29(4):737-752 [FREE
+Full text] [doi: 10.1016/j.cger .2013.07.002 ] [Medline: 24094294 ]
+2. World Report on Ageing and Health. Gene va: World Health Organization; 2015.
+3. Janelidze M, Mikeladze N, Bochorishvili N, Dzagnidze A, Kapianidze M, Mika va N, et al. Mild cogniti ve impairment in
+republic of Geor gia. Gerontol Geriatr Med 2018 May 04;4:2333721418771408 [FREE Full text] [doi:
+10.1177/2333721418771408 ] [Medline: 29761134 ]
+4. Lindber gh CA, Dishman RK, Miller LS. Functional disability in mild cogniti ve impairment: a systematic review and
+meta-analysis. Neuropsychol Rev 2016 Jun 8;26(2):129-159. [doi: 10.1007/s11065-016-9321-5 ] [Medline: 27393566 ]
+5. Petersen RC, Caracciolo B, Brayne C, Gauthier S, Jelic V, Fratiglioni L. Mild cogniti ve impairment: a concept in evolution.
+J Intern Med 2014 Mar 08;275(3):214-228 [FREE Full text] [doi: 10.1111/joim.12190 ] [Medline: 24605806 ]
+6. Petersen RC, Smith GE, Waring SC, Ivnik RJ, Kokmen E, Tangelos EG. Aging, memory , and mild cogniti ve impairment.
+Int Psychogeriatr 1997 Jan 10;9 Suppl 1(S1):65-69. [doi: 10.1017/s1041610297004717 ] [Medline: 9447429 ]
+7. ICD-11 international classif ication of diseases 11th revision the global standard for diagnostic health information. World
+Health Organization. URL: https://icd.who.int/en [accessed 2020-07-20]
+8. Sanford AM. Mild cogniti ve impairment. Clin Geriatr Med 2017 Aug;33(3):325-337. [doi: 10.1016/j.cger .2017.02.005 ]
+[Medline: 28689566 ]
+9. Diagnostic And Statistical Manual Of Mental Disorders, Fifth Edition. Virginia, United States: American Psychiatric
+Association; 2013.
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 18 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderX10. Sachde v PS, Black er D, Blazer DG, Ganguli M, Jeste DV, Paulsen JS, et al. Classifying neurocogniti ve disorders: the
+DSM-5 approach. Nat Rev Neurol 2014 Nov 30;10(11):634-642 [FREE Full text] [doi: 10.1038/nrneurol.2014.181 ] [Medline:
+25266297 ]
+11. Sachs-Ericsson N, Blazer DG. The new DSM-5 diagnosis of mild neurocogniti ve disorder and its relation to research in
+mild cogniti ve impairment. Aging Ment Health 2015 Jan 10;19(1):2-12. [doi: 10.1080/13607863.2014.920303 ] [Medline:
+24914889 ]
+12. Parnetti L, Chipi E, Salvadori N, D'Andrea K, Eusebi P. Prevalence and risk of progression of preclinical Alzheimer's
+disease stages: a systematic review and meta-analysis. Alzheimers Res Ther 2019 Jan 15;11(1):7 [FREE Full text] [doi:
+10.1186/s13195-018-0459-7 ] [Medline: 30646955 ]
+13. Hu C, Yu D, Sun X, Zhang M, Wang L, Qin H. The prevalence and progression of mild cogniti ve impairment among clinic
+and community populations: a systematic review and meta-analysis. Int Psychogeriatr 2017 Jun 15;29(10):1595-1608. [doi:
+10.1017/s1041610217000473 ]
+14. Petersen RC, Roberts RO, Knopman DS, Boeve BF, Geda YE, Ivnik RJ, et al. Mild cogniti ve impairment: ten years later.
+Arch Neurol 2009 Dec 01;66(12):1447-1455 [FREE Full text] [doi: 10.1001/archneurol.2009.266 ] [Medline: 20008648 ]
+15. Braillon A. Reader response: practice guideline update summary: mild cogniti ve impairment: report of the guideline
+development, dissemination, and implementation subcommittee of the american academy of neurology . Neurology 2018
+Aug 20;91(8). [doi: 10.1212/wnl.0000000000006038 ]
+16. Kasper S, Bancher C, Eckert A, Förstl H, Frölich L, Hort J, et al. Management of mild cogniti ve impairment (MCI): the
+need for national and international guidelines. World J Biol Psychiatry 2020 Oct 05;21(8):579-594. [doi:
+10.1080/15622975.2019.1696473 ] [Medline: 32019392 ]
+17. Smith PJ. Pathw ays of prevention: a scoping review of dietary and exercise interv entions for neurocognition. Brain Plasticity
+2019 Dec 26;5(1):3-38. [doi: 10.3233/bpl-190083 ]
+18. Chuang Y, An Y, Bilgel M, Wong DF, Troncoso JC, O'Brien RJ, et al. Midlife adiposity predicts earlier onset of Alzheimer's
+dementia, neuropathology and presymptomatic cerebral amyloid accumulation. Mol Psychiatry 2016 Jul 01;21(7):910-915
+[FREE Full text] [doi: 10.1038/mp.2015.129 ] [Medline: 26324099 ]
+19. de Oliveira FF, Pivi GA, Chen ES, Smith MC, Bertolucci PH. Risk factors for cogniti ve and functional change in one year
+in patients with Alzheimer's disease dementia from São Paulo, Brazil. J Neurol Sci 2015 Dec 15;359(1-2):127-132. [doi:
+10.1016/j.jns.2015.10.051 ] [Medline: 26671101 ]
+20. Iadecola C, Yaffe K, Biller J, Bratzk e LC, Faraci FM, Gorelick PB, et al. Impact of hypertension on cogniti ve function: a
+scientif ic statement from the american heart association. Hypertension 2016 Dec;68(6):e67-e94. [doi:
+10.1161/h yp.0000000000000053 ]
+21. Lehert P, Villaseca P, Hogerv orst E, Maki PM, Henderson VW. Individually modif iable risk factors to ameliorate cogniti ve
+aging: a systematic review and meta-analysis. Climacteric 2015 Oct 11;18(5):678-689 [FREE Full text] [doi:
+10.3109/13697137.2015.1078106 ] [Medline: 26361790 ]
+22. Roberts RO, Knopman DS, Geda YE, Cha RH, Pankratz VS, Baertlein L, et al. Association of diabetes with amnestic and
+nonamnestic mild cogniti ve impairment. Alzheimers Dement 2014 Jan 05;10(1):18-26 [FREE Full text] [doi:
+10.1016/j.jalz.2013.01.001 ] [Medline: 23562428 ]
+23. Vassilaki M, Aakre JA, Cha RH, Kremers WK, St Sauv er JL, Mielk e MM, et al. Multimorbidity and risk of mild cogniti ve
+impairment. J Am Geriatr Soc 2015 Sep 27;63(9):1783-1790 [FREE Full text] [doi: 10.1111/jgs.13612 ] [Medline: 26311270 ]
+24. Pal K, Mukadam N, Petersen I, Cooper C. Mild cogniti ve impairment and progression to dementia in people with diabetes,
+prediabetes and metabolic syndrome: a systematic review and meta-analysis. Soc Psychiatry Psychiatr Epidemiol 2018
+Nov 4;53(11):1149-1160 [FREE Full text] [doi: 10.1007/s00127-018-1581-3 ] [Medline: 30182156 ]
+25. Geda YE, Roberts RO, Knopman DS, Christianson TJ, Pankratz VS, Ivnik RJ, et al. Physical exercise, aging, and mild
+cogniti ve impairment: a population-based study . Arch Neurol 2010 Jan 01;67(1):80-86 [FREE Full text] [doi:
+10.1001/archneurol.2009.297 ] [Medline: 20065133 ]
+26. Verghese J, LeValley A, Derby C, Kuslansk y G, Katz M, Hall C, et al. Leisure activities and the risk of amnestic mild
+cogniti ve impairment in the elderly . Neurology 2006 Feb 08;66(6):821-827. [doi: 10.1212/01.wnl.0000202520.68987.48 ]
+27. Erickson KI, Raji CA, Lopez OL, Beck er JT, Rosano C, Newman AB, et al. Physical activity predicts gray matter volume
+in late adulthood: the cardio vascular health study . Neurology 2010 Oct 13;75(16):1415-1422. [doi:
+10.1212/wnl.0b013e3181f88359 ]
+28. Cunningham C, O' Sullivan R, Caserotti P, Tully MA. Consequences of physical inacti vity in older adults: a systematic
+review of reviews and meta-analyses. Scand J Med Sci Sports 2020 May;30(5):816-827. [doi: 10.1111/sms.13616 ] [Medline:
+32020713 ]
+29. Beck ett MW, Ardern CI, Rotondi MA. A meta-analysis of prospecti ve studies on the role of physical activity and the
+prevention of Alzheimer's disease in older adults. BMC Geriatr 2015 Feb 11;15(1):9 [FREE Full text] [doi:
+10.1186/s12877-015-0007-2 ] [Medline: 25887627 ]
+30. Beydoun MA, Beydoun HA, Gamaldo AA, Teel A, Zonderman AB, Wang Y. Epidemiologic studies of modif iable factors
+associated with cognition and dementia: systematic review and meta-analysis. BMC Public Health 2014 Jun 24;14(1):643
+[FREE Full text] [doi: 10.1186/1471-2458-14-643 ] [Medline: 24962204 ]
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 19 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderX31. Blondell SJ, Hammersle y-Mather R, Veerman JL. Does physical activity prevent cogniti ve decline and dementia?: a
+systematic review and meta-analysis of longitudinal studies. BMC Public Health 2014 May 27;14(1):510 [FREE Full text]
+[doi: 10.1186/1471-2458-14-510 ] [Medline: 24885250 ]
+32. Parimon T, Cusack B, Rea IM, Carv alho A. Physical activity and cogniti ve function in individuals over 60 years of age: a
+systematic review. Clin Interv ent Aging 2014 Apr:661-682. [doi: 10.2147/cia.s55520 ]
+33. Guure CB, Ibrahim NA, Adam MB, Said SM. Impact of physical activity on cogniti ve decline, dementia, and its subtypes:
+meta-analysis of prospecti ve studies. Biomed Res Int 2017;2017:9016924-9016913 [FREE Full text] [doi:
+10.1155/2017/9016924 ] [Medline: 28271072 ]
+34. Lee J. The relationship between physical activity and dementia: a systematic review and meta-analysis of prospecti ve cohort
+studies. J Gerontol Nurs 2018 Oct 01;44(10):22-29. [doi: 10.3928/00989134-20180814-01 ] [Medline: 30257021 ]
+35. Sofi F, Valecchi D, Bacci D, Abbate R, Gensini GF, Casini A, et al. Physical activity and risk of cogniti ve decline: a
+meta-analysis of prospecti ve studies. J Intern Med 2011 Jan;269(1):107-117 [FREE Full text] [doi:
+10.1111/j.1365-2796.2010.02281.x ] [Medline: 20831630 ]
+36. Stanmore E, Stubbs B, Vancampfort D, de Bruin ED, Firth J. The effect of active video games on cogniti ve functioning in
+clinical and non-clinical populations: a meta-analysis of randomized controlled trials. Neurosci Biobeha v Rev 2017
+Jul;78:34-43 [FREE Full text] [doi: 10.1016/j.neubiore v.2017.04.011 ] [Medline: 28442405 ]
+37. Boletsis C, McCallum S. Connecting the player to the doctor: utilising serious games for cogniti ve training and screening.
+DAIMI PB 2015;597:5-8.
+38. Oh Y, Yang S. Proceedings of Meaningful Play. 2010 Presented at: Meaningful Play 2010; Oct 21 - 23, 2010; East Lansing,
+MI, USA.
+39. Witherspoon L. ACSM Information On Exergaming. American Colle ge of Sports Medicine. 2013. URL: http://health ysd.
+gov/wp-content/uploads/2014/11/e xergaming.pdf [accessed 2022-11-08]
+40. Zhao Y, Feng H, Wu X, Du Y, Yang X, Hu M, et al. Effectiveness of exergaming in impro ving cogniti ve and physical
+function in people with mild cogniti ve impairment or dementia: systematic review. JMIR Serious Games 2020 Jun
+30;8(2):e16841 [FREE Full text] [doi: 10.2196/16841 ] [Medline: 32602841 ]
+41. Panza GA, Taylor BA, MacDonald HV, Johnson BT, Zaleski AL, Livingston J, et al. Can exercise impro ve cogniti ve
+symptoms of alzheimer's disease? J Am Geriatr Soc 2018 Mar 24;66(3):487-495. [doi: 10.1111/jgs.15241 ] [Medline:
+29363108 ]
+42. Herold F, Hamacher D, Sche ga L, Müller NG. Thinking while moving or moving while thinking - concepts of motor -cogniti ve
+training for cogniti ve performance enhancement. Front Aging Neurosci 2018 Aug 6;10:228 [FREE Full text] [doi:
+10.3389/fnagi.2018.00228 ] [Medline: 30127732 ]
+43. Chen F, Etnier JL, Chan K, Chiu P, Hung T, Chang Y. Effects of exercise training interv entions on executi ve function in
+older adults: a systematic review and meta-analysis. Sports Med 2020 Aug 23;50(8):1451-1467 [FREE Full text] [doi:
+10.1007/s40279-020-01292-x ] [Medline: 32447717 ]
+44. Gavelin HM, Dong C, Mink ov R, Bahar -Fuchs A, Ellis KA, Lautenschlager NT, et al. Combined physical and cogniti ve
+training for older adults with and without cogniti ve impairment: a systematic review and netw ork meta-analysis of randomized
+controlled trials. Ageing Res Rev 2021 Mar;66:101232. [doi: 10.1016/j.arr .2020.101232 ] [Medline: 33249177 ]
+45. Biazus-Sehn LF, Schuch FB, Firth J, Stigger FD. Effects of physical exercise on cogniti ve function of older adults with
+mild cogniti ve impairment: a systematic review and meta-analysis. Arch Gerontol Geriatr 2020 Jul;89:104048. [doi:
+10.1016/j.archger .2020.104048 ] [Medline: 32460123 ]
+46. Wu C, Yi Q, Zheng X, Cui S, Chen B, Lu L, et al. Effects of mind-body exercises on cogniti ve function in older adults: a
+meta-analysis. J Am Geriatr Soc 2019 Apr 18;67(4):749-758. [doi: 10.1111/jgs.15714 ] [Medline: 30565212 ]
+47. Manser P, de Bruin ED. Making the best out of IT: design and development of exergames for older adults with mild
+neurocogniti ve disorder - a methodological paper . Front Aging Neurosci 2021 Dec 9;13:734012 [FREE Full text] [doi:
+10.3389/fnagi.2021.734012 ] [Medline: 34955806 ]
+48. Diaz Baquero AA, Dröes RM, Perea Bartolomé MV, Irazoki E, Toribio-Guzmán JM, Franco-Martín MA, et al.
+Methodological designs applied in the development of computer -based training programs for the cogniti ve rehabilitation
+in people with mild cogniti ve impairment (MCI) and mild dementia. Systematic review. J Clin Med 2021 Mar 16;10(6):1222
+[FREE Full text] [doi: 10.3390/jcm10061222 ] [Medline: 33809445 ]
+49. British Standards Document BS EN ISO 9241-210 Ergonomics of human-system interaction. Human-centred design for
+interacti ve systems. The British Standards Institution. URL: https://landingpage.bsigroup.com/LandingP age/
+Undated?UPI=000000000030388991 [accessed 2021-04-06]
+50. Li Y, Muñoz J, Mehrabi S, Middleton M, Cao S, Boger J. Multidisciplinary iterati ve design of exergames (MIDE): a
+frame work for supporting the design, development, and evaluation of exergames for health. In: HCI in Games. Cham:
+Springer; Jul 10, 2020.
+51. Altorfer P, Adcock M, de Bruin ED, Graf F, Giannouli E. Feasibility of cogniti ve-motor exergames in geriatric inpatient
+rehabilitation: a pilot randomized controlled study . Front Aging Neurosci 2021 Nov 29;13:739948 [FREE Full text] [doi:
+10.3389/fnagi.2021.739948 ] [Medline: 34912206 ]
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 20 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderX52. Swinnen N, Vandenb ulcke M, de Bruin ED, Akkerman R, Stubbs B, Vancampfort D. Exergaming for people with major
+neurocogniti ve disorder: a qualitati ve study . Disabil Rehabil 2022 May 23;44(10):2044-2052. [doi:
+10.1080/09638288.2020.1822934 ] [Medline: 32962436 ]
+53. Dicicco-Bloom B, Crabtree BF. The qualitati ve research intervie w. Med Educ 2006 Apr;40(4):314-321. [doi:
+10.1111/j.1365-2929.2006.02418.x ] [Medline: 16573666 ]
+54. Tong A, Sainsb ury P, Craig J. Consolidated criteria for reporting qualitati ve research (COREQ): a 32-item checklist for
+intervie ws and focus groups. Int J Qual Health Care 2007 Dec 16;19(6):349-357. [doi: 10.1093/intqhc/mzm042 ] [Medline:
+17872937 ]
+55. O'Caoimh R, Mollo y DW. The Quick Mild Cogniti ve Impairment Screen (Qmci). In: Cogniti ve Screening Instruments.
+Cham: Springer; 2017.
+56. O’Caoimh R, Gao Y, Svendo vski A, Gallagher P, Eustace J, Mollo y DW. Comparing approaches to optimize cut-of f scores
+for short cogniti ve screening instruments in mild cogniti ve impairment and dementia. J Alzheimer Dis 2017 Mar
+04;57(1):123-133. [doi: 10.3233/jad-161204 ]
+57. Jamshed S. Qualitati ve research method-intervie wing and observ ation. J Basic Clin Pharm 2014 Sep;5(4):87-88 [FREE
+Full text] [doi: 10.4103/0976-0105.141942 ] [Medline: 25316987 ]
+58. Beuscher L, Grando VT. Challenges in conducting qualitati ve research with individuals with dementia. Res Gerontol Nurs
+2009 Jan;2(1):6-11 [FREE Full text] [doi: 10.3928/19404921-20090101-04 ] [Medline: 20077988 ]
+59. Novek S, Wilkinson H. Safe and inclusi ve research practices for qualitati ve research involving people with dementia: a
+review of key issues and strate gies. Dementia (London) 2019 Apr 28;18(3):1042-1059. [doi: 10.1177/1471301217701274 ]
+[Medline: 28350179 ]
+60. Côté L, Turgeon J. Appraising qualitati ve research articles in medicine and medical education. Med Teach 2005 Jan
+03;27(1):71-75. [doi: 10.1080/01421590400016308 ] [Medline: 16147774 ]
+61. Mayring P, Fenzl T. Qualitati ve Inhaltsanalyse. In: Handb uch Methoden der empirischen Sozialforschung. Wiesbaden:
+Springer; Feb 15, 2019.
+62. Mayring P. Qualitati ve content analysis: theoretical background and procedures. In: Approaches to Qualitati ve Research
+in Mathematics Education. Dordrecht: Springer; 2014.
+63. Fenzl T, Mayring P. QCAmap: eine interakti ve Webapplikation für Qualitati ve Inhaltsanalyse. Qualitati ve Content Analysis
+Programm. 2017. URL: https://www .qcamap.or g/ui/en/home [accessed 2021-12-11]
+64. Mayring P. QCAmap Step by Step – a Softw are Handbook. Qualitati ve Content Analysis Program. 2020. URL: https:/
+/qualitati ve-content-analysis.or g/wp-content/uploads/QCAmapSoftw areHandbook.pdf [accessed 2020-10-25]
+65. Ryan RM, Deci EL. Overvie w of self-determination theory: an organismic-dialectical perspecti ve. In: Handbook of
+Self-determination Research. Rochester , NY: University of Rochester Press; 2002.
+66. Hagger M, Chatzisarantis N. Self-determination theory and the psychology of exercise. Int Rev Sport Exercise Psychol
+2008 Mar;1(1):79-103. [doi: 10.1080/17509840701827437 ]
+67. Wilson PM, Mack DE, Grattan KP. Understanding motivation for exercise: a self-determination theory perspecti ve. Can
+Psychol/Psychologie Canadienne 2008 Aug;49(3):250-256. [doi: 10.1037/a0012762 ]
+68. Hagger M. Intrinsic Moti vation and Self-determination in Exercise and Sport. Champaign, Illinois: Human Kinetics; 2007.
+69. Murcia J, Román M, Galindo C, Alonso N, González-Cutre D. Peers' influence on exercise enjoyment: a self-determination
+theory approach. J Sports Sci Med 2008;7(1):23-31 [FREE Full text] [Medline: 24150130 ]
+70. Teixeira PJ, Carraça EV, Markland D, Silva MN, Ryan RM. Exercise, physical activity, and self-determination theory: a
+systematic review. Int J Beha v Nutr Phys Act 2012 Jun 22;9(1):78 [FREE Full text] [doi: 10.1186/1479-5868-9-78 ] [Medline:
+22726453 ]
+71. Dividat AG. Vimeo. URL: https://vimeo.com/di vidat [accessed 2022-02-28]
+72. Ma L. Depression, anxiety , and apath y in mild cogniti ve impairment: current perspecti ves. Front Aging Neurosci 2020 Jan
+30;12:9 [FREE Full text] [doi: 10.3389/fnagi.2020.00009 ] [Medline: 32082139 ]
+73. Ismail Z, Elbayoumi H, Fischer CE, Hogan DB, Millikin CP, Schweizer T, et al. Prevalence of depression in patients with
+mild cogniti ve impairment: a systematic review and meta-analysis. JAMA Psychiatry 2017 Jan 01;74(1):58-67. [doi:
+10.1001/jamapsychiatry .2016.3162 ] [Medline: 27893026 ]
+74. Zhang H, Huntle y J, Bhome R, Holmes B, Cahill J, Gould RL, et al. Effect of computerised cogniti ve training on cogniti ve
+outcomes in mild cogniti ve impairment: a systematic review and meta-analysis. BMJ Open 2019 Aug 18;9(8):e027062
+[FREE Full text] [doi: 10.1136/bmjopen-2018-027062 ] [Medline: 31427316 ]
+75. Kueider AM, Parisi JM, Gross AL, Rebok GW. Computerized cogniti ve training with older adults: a systematic review.
+PLoS One 2012 Jul 11;7(7):e40588 [FREE Full text] [doi: 10.1371/journal.pone.0040588 ] [Medline: 22792378 ]
+76. Hughes TF, Flatt JD, Fu B, Butters MA, Chang CH, Ganguli M. Interacti ve video gaming compared with health education
+in older adults with mild cogniti ve impairment: a feasibility study . Int J Geriatr Psychiatry 2014 Sep 22;29(9):890-898
+[FREE Full text] [doi: 10.1002/gps.4075 ] [Medline: 24452845 ]
+77. Di Lorito C, Bosco A, Booth V, Goldber g S, Harw ood RH, Van der Wardt V. Adherence to exercise interv entions in older
+people with mild cogniti ve impairment and dementia: a systematic review and meta-analysis. Prev Med Rep 2020
+Sep;19:101139 [FREE Full text] [doi: 10.1016/j.pmedr .2020.101139 ] [Medline: 32793408 ]
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 21 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderX78. Swinnen N, Vandenb ulcke M, Vancampfort D. Exergames in people with major neurocogniti ve disorder: a systematic
+review. Disabil Rehabil Assist Technol 2022 May 22;17(4):376-389. [doi: 10.1080/17483107.2020.1785566 ] [Medline:
+32697614 ]
+79. Turunen M, Hokkanen L, Bäckman L, Stigsdotter -Neely A, Hänninen T, Paajanen T, et al. Computer -based cogniti ve
+training for older adults: determinants of adherence. PLoS One 2019 Jul 10;14(7):e0219541 [FREE Full text] [doi:
+10.1371/journal.pone.0219541 ] [Medline: 31291337 ]
+80. Valenzuela T, Okubo Y, Woodb ury A, Lord SR, Delbaere K. Adherence to technology-based exercise programs in older
+adults: a systematic review. J Geriatr Phys Ther 2018;41(1):49-61. [doi: 10.1519/JPT .0000000000000095 ] [Medline:
+27362526 ]
+81. Sokolov A, Collignon A, Bieler -Aeschlimann M. Serious video games and virtual reality for prevention and
+neurorehabilitation of cogniti ve decline because of aging and neurode generation. Curr Opin Neurol 2020 Apr;33(2):239-248
+[FREE Full text] [doi: 10.1097/WCO.0000000000000791 ] [Medline: 32073439 ]
+82. Mishra J, Anguera J, Gazzale y A. Video games for neuro-cogniti ve optimization. Neuron 2016 Apr 20;90(2):214-218
+[FREE Full text] [doi: 10.1016/j.neuron.2016.04.010 ] [Medline: 27100194 ]
+83. deBettencourt MT, Cohen JD, Lee RF, Norman KA, Turk-Bro wne NB. Closed-loop training of attention with real-time
+brain imaging. Nat Neurosci 2015 Mar 09;18(3):470-475 [FREE Full text] [doi: 10.1038/nn.3940 ] [Medline: 25664913 ]
+84. Rebsamen S, Knols RH, Pfister PB, de Bruin ED. Exergame-dri ven high-intensity interv al training in untrained community
+dwelling older adults: a formati ve one group quasi- experimental feasibility trial. Front Physiol 2019 Aug 7;10:1019 [FREE
+Full text] [doi: 10.3389/fph ys.2019.01019 ] [Medline: 31440168 ]
+85. Huber SK, Held JP, de Bruin ED, Knols RH. Personalized motor -cogniti ve exergame training in chronic strok e patients-a
+feasibility study . Front Aging Neurosci 2021 Oct 20;13:730801 [FREE Full text] [doi: 10.3389/fnagi.2021.730801 ] [Medline:
+34744688 ]
+86. Schättin A, Häfliger S, Meyer A, Früh B, Böckler S, Hungerb ühler Y, et al. Design and evaluation of user-centered exergames
+for patients with multiple sclerosis: multile vel usability and feasibility studies. JMIR Serious Games 2021 May 07;9(2):e22826
+[FREE Full text] [doi: 10.2196/22826 ] [Medline: 33960956 ]
+87. Subramanian S, Dahl Y, Skjæret Maroni N, Vereijk en B, Svanæs D. Assessing motivational differences between young
+and older adults when playing an exergame. Games Health J 2020 Feb 01;9(1):24-30. [doi: 10.1089/g4h.2019.0082 ]
+[Medline: 31532235 ]
+88. Di Lorito C, Pollock K, Harw ood R, das Nair R, Logan P, Goldber g S, et al. A scoping review of behaviour change theories
+in adults without dementia to adapt and develop the 'PHYT in dementia', a model promoting physical activity in people
+with dementia. Maturitas 2019 Mar;121:101-113 [FREE Full text] [doi: 10.1016/j.maturitas.2019.01.008 ] [Medline:
+30686623 ]
+89. Russell KL, Bray SR. Self-determined motivation predicts independent, home-based exercise following cardiac rehabilitation.
+Rehabil Psychol 2009 May;54(2):150-156. [doi: 10.1037/a0015595 ] [Medline: 19469604 ]
+90. Smith GE, Chandler M, Fields JA, Aakre J, Lock e DE. A survey of patient and partner outcome and treatment preferences
+in mild cogniti ve impairment. J Alzheimer Dis 2018 May 30;63(4):1459-1468. [doi: 10.3233/jad-171161 ]
+91. Amjad I, Toor H, Niazi IK, Pervaiz S, Jochumsen M, Shafique M, et al. Xbox 360 kinect cogniti ve games impro ve slowness,
+comple xity of EEG, and cogniti ve functions in subjects with mild cogniti ve impairment: a randomized control trial. Games
+Health J 2019 Apr;8(2):144-152. [doi: 10.1089/g4h.2018.0029 ] [Medline: 30239213 ]
+92. Anderson-Hanle y C, Barcelos NM, Zimmerman EA, Gillen RW, Dunnam M, Cohen BD, et al. The aerobic and cogniti ve
+exercise study (ACES) for community-dwelling older adults with or at-risk for mild cogniti ve impairment (MCI):
+neuropsychological, neurobiological and neuroimaging outcomes of a randomized clinical trial. Front Aging Neurosci 2018
+May 4;10:76 [FREE Full text] [doi: 10.3389/fnagi.2018.00076 ] [Medline: 29780318 ]
+93. Anderson-Hanle y C, Stark J, Wall KM, VanBrakle M, Michel M, Malone y M, et al. CIA 2018 Sep;V olume 13:1565-1577.
+[doi: 10.2147/cia.s160756 ]
+94. Delbroek T, Verme ylen W, Spildooren J. The effect of cogniti ve-motor dual task training with the biorescue force platform
+on cognition, balance and dual task performance in institutionalized older adults: a randomized controlled trial. J Phys Ther
+Sci 2017 Jul;29(7):1137-1143 [FREE Full text] [doi: 10.1589/jpts.29.1137 ] [Medline: 28744033 ]
+95. Jirayucharoensak S, Israsena P, Pan-ngum S, Hemrungrojn S, Maes M. A game-based neurofeedback training system to
+enhance cogniti ve performance in health y elderly subjects and in patients with amnestic mild cogniti ve impairment. Clin
+Interv Aging 2019 Feb;V olume 14:347-360. [doi: 10.2147/cia.s189047 ]
+96. Combourieu Donnezan L, Perrot A, Belle ville S, Bloch F, Kemoun G. Effects of simultaneous aerobic and cogniti ve training
+on executi ve functions, cardio vascular fitness and functional abilities in older adults with mild cogniti ve impairment. Mental
+Health Physical Activity 2018 Oct;15:78-87. [doi: 10.1016/j.mhpa.2018.06.001 ]
+97. Ben-Sadoun G, Sacco G, Manera V, Bour geois J, König A, Foulon P, et al. Physical and cogniti ve stimulation using an
+exergame in subjects with normal aging, mild and moderate cogniti ve impairment. J Alzheimer Dis 2016 Aug
+08;53(4):1299-1314. [doi: 10.3233/jad-160268 ]
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 22 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderX98. Mrakic-Sposta S, Di Santo SG, Franchini F, Arlati S, Zangiacomi A, Greci L, et al. Effects of combined physical and
+cogniti ve virtual reality-based training on cogniti ve impairment and oxidati ve stress in MCI patients: a pilot study . Front
+Aging Neurosci 2018 Oct 1;10:282 [FREE Full text] [doi: 10.3389/fnagi.2018.00282 ] [Medline: 30327596 ]
+99. Robert P, Albrengues C, Fabre R, Derreumaux A, Pancrazi MP, Luporsi I, et al. Efficacy of serious exergames in impro ving
+neuropsychiatric symptoms in neurocogniti ve disorders: results of the X-TORP cluster randomized trial. Alzheimers Dement
+(N Y) 2021;7(1):e12149 [FREE Full text] [doi: 10.1002/trc2.12149 ] [Medline: 34013018 ]
+100. Wall K, Stark J, Schillaci A, Saulnier E, McLaren E, Striegnitz K, et al. The enhanced interacti ve physical and cogniti ve
+exercise system (iPACES v2.0): pilot clinical trial of an in-home iPad-based neuro-e xergame for mild cogniti ve impairment
+(MCI). J Clin Med 2018 Aug 30;7(9):249 [FREE Full text] [doi: 10.3390/jcm7090249 ] [Medline: 30200183 ]
+101. Sanders LM, Hortobágyi T, la Bastide-v an Gemert S, van der Zee EA, van Heuv elen MJ. Dose-response relationship
+between exercise and cogniti ve function in older adults with and without cogniti ve impairment: a systematic review and
+meta-analysis. PLoS One 2019 Jan 10;14(1):e0210036 [FREE Full text] [doi: 10.1371/journal.pone.0210036 ] [Medline:
+30629631 ]
+102. Bahar -Fuchs A, Martyr A, Goh AM, Sabates J, Clare L. Cogniti ve training for people with mild to moderate dementia.
+Cochrane Database Syst Rev 2019 Mar 25;3(3):CD013069 [FREE Full text] [doi: 10.1002/14651858.CD013069.pub2 ]
+[Medline: 30909318 ]
+103. Northe y JM, Cherb uin N, Pumpa KL, Smee DJ, Rattray B. Exercise interv entions for cogniti ve function in adults older
+than 50: a systematic review with meta-analysis. Br J Sports Med 2018 Feb 24;52(3):154-160. [doi:
+10.1136/bjsports-2016-096587 ] [Medline: 28438770 ]
+104. Butler M, McCreedy E, Nelson VA, Desai P, Ratner E, Fink HA, et al. Does cogniti ve training prevent cogniti ve decline?
+Ann Intern Med 2017 Dec 19;168(1):63. [doi: 10.7326/m17-1531 ]
+105. Toril P, Reales JM, Ballesteros S. Video game training enhances cognition of older adults: a meta-analytic study . Psychol
+Aging 2014 Sep;29(3):706-716. [doi: 10.1037/a0037507 ] [Medline: 25244488 ]
+Abbreviations
+ADL: activities of daily living
+CCT : computerized cogniti ve training
+DSM-5: Diagnostic and Statistical Manual of Mental Disorders 5th Edition
+HOA: health y older adults
+MCI: mild cogniti ve impairment
+MIDE: Multidisciplinary Iterati ve Design of Exergames
+mNCD: mild neurocogniti ve disorder
+MTT : medical training therap y
+NCD: neurocogniti ve disorders
+PT: physical therap y
+Edited by N Zary; submitted 28.02.22; peer-reviewed by MJ Brouillette , P Backlund; comments to author 12.06.22; revised version
+received 28.06.22; accepted 10.10.22; published 05.01.23
+Please cite as:
+Manser P, Adcoc k-Omlin M, de Bruin ED
+Design Consider ations for an Exergame-Based Training Intervention for Older Adults With Mild Neur ocognitive Disor der: Qualitative
+Study Including Focus Groups With Experts and Health Care Professionals and Individual Semistructur ed In-depth Patient Intervie ws
+JMIR Serious Games 2023;11:e37616
+URL: https://games.jmir .org/2023/1/e37616
+doi: 10.2196/37616
+PMID: 36602851
+©Patrick Manser , Manuela Adcock-Omlin, Eling D de Bruin. Originally published in JMIR Serious Games (https://g ames.jmir .org),
+05.01.2023. This is an open-access article distrib uted under the terms of the Creati ve Commons Attrib ution License
+(https://creati vecommons.or g/licenses/by/4.0/), which permits unrestricted use, distrib ution, and reproduction in any medium,
+provided the original work, first published in JMIR Serious Games, is properly cited. The complete bibliographic information, a
+link to the original publication on https://g ames.jmir .org, as well as this copyright and license information must be included.
+JMIR Serious Games 2023 | vol. 11 | e37616 | p. 23 https://g ames.jmir .org/2023/1/e37616
+(page number not for citation purposes)Manser et al JMIR SERIOUS GAMES
+XSL•FO
+RenderX

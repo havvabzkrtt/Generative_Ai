@@ -1,0 +1,1 @@
+FROM ./ggml-sfr-embedding-mistral-q4_k_m.gguf
